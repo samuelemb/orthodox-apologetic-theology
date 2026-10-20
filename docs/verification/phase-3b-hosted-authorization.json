@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-13",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "runId": "83d99403-bbaa-4234-9c2d-7d72cdbe6da6",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "Public sign-ups disabled in live Auth settings",
+      "status": "passed"
+    },
+    {
+      "name": "Anonymous reads topics",
+      "status": "passed"
+    },
+    {
+      "name": "Anonymous reads only the published translation",
+      "status": "passed"
+    },
+    {
+      "name": "Draft translation hidden by direct ID and slug",
+      "status": "passed"
+    },
+    {
+      "name": "Published translation readable by direct ID and slug",
+      "status": "passed"
+    },
+    {
+      "name": "Draft-only teaching and translation hidden by ID/slug",
+      "status": "passed"
+    },
+    {
+      "name": "Anonymous feedback privacy and direct insertion denial",
+      "status": "passed"
+    },
+    {
+      "name": "Anonymous content insert/update/delete denied",
+      "status": "passed"
+    },
+    {
+      "name": "Non-owner cannot see drafts or draft-only metadata",
+      "status": "passed"
+    },
+    {
+      "name": "Non-owner cannot read or manage feedback",
+      "status": "passed"
+    },
+    {
+      "name": "Non-owner cannot manage content",
+      "status": "passed"
+    },
+    {
+      "name": "Editable metadata does not authorize non-owner",
+      "status": "passed"
+    },
+    {
+      "name": "Allowlist cannot be read or modified through Data API",
+      "status": "passed"
+    },
+    {
+      "name": "Owner reads drafts and feedback using a signed-in publishable client",
+      "status": "passed"
+    },
+    {
+      "name": "Owner creates, updates and deletes teaching and translation",
+      "status": "passed"
+    },
+    {
+      "name": "Owner manages feedback without privileged authorization client",
+      "status": "passed"
+    },
+    {
+      "name": "Publication is per version and reversible",
+      "status": "passed"
+    },
+    {
+      "name": "Owner writes still enforce feedback/content constraints",
+      "status": "passed"
+    },
+    {
+      "name": "Owner membership revocation immediately removes draft/feedback access",
+      "status": "passed"
+    }
+  ],
+  "cleanup": [
+    {
+      "item": "fixture rows and temporary memberships",
+      "status": "passed"
+    },
+    {
+      "item": "temporary account 89657329-4e98-459e-9895-dd77d35482af",
+      "status": "passed"
+    },
+    {
+      "item": "temporary account e3bd22d3-1880-40ff-9cd2-0cf37969edc5",
+      "status": "passed"
+    },
+    {
+      "item": "post-cleanup counts",
+      "status": "passed"
+    }
+  ],
+  "originalDbTest": "unrun: local Docker stack unavailable"
+}

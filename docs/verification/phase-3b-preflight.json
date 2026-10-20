@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-13",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "inspected",
+  "objects": [
+    {
+      "kind": "r",
+      "name": "owner_allowlist",
+      "schema": "private"
+    },
+    {
+      "kind": "r",
+      "name": "feedback",
+      "schema": "public"
+    },
+    {
+      "kind": "r",
+      "name": "teaching_translations",
+      "schema": "public"
+    },
+    {
+      "kind": "r",
+      "name": "teachings",
+      "schema": "public"
+    },
+    {
+      "kind": "r",
+      "name": "topics",
+      "schema": "public"
+    }
+  ],
+  "functions": [
+    {
+      "arguments": "",
+      "name": "touch_updated_at",
+      "schema": "private"
+    },
+    {
+      "arguments": "",
+      "name": "is_owner",
+      "schema": "public"
+    },
+    {
+      "arguments": "value text",
+      "name": "trim_input",
+      "schema": "public"
+    },
+    {
+      "arguments": "value text",
+      "name": "utf16_length",
+      "schema": "public"
+    },
+    {
+      "arguments": "document jsonb",
+      "name": "valid_article_content",
+      "schema": "public"
+    },
+    {
+      "arguments": "value text",
+      "name": "valid_feedback_email",
+      "schema": "public"
+    }
+  ],
+  "schemas": [
+    {
+      "name": "private"
+    }
+  ],
+  "history": [
+    {
+      "name": "content_validation",
+      "version": "20261010000100"
+    },
+    {
+      "name": "schema_and_rls",
+      "version": "20261010000200"
+    }
+  ],
+  "presence": {
+    "auth_users": 0,
+    "history_exists": true,
+    "storage_buckets": 0,
+    "storage_objects": 0
+  },
+  "counts": {
+    "private.owner_allowlist": 0,
+    "public.feedback": 0,
+    "public.teaching_translations": 0,
+    "public.teachings": 0,
+    "public.topics": 4
+  },
+  "pending": [],
+  "conflicts": []
+}

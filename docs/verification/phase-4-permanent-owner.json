@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-13",
+  "status": "provisioned",
+  "authAccountExists": true,
+  "allowlistMembershipVerified": true,
+  "separateFromTestIdentities": true,
+  "credentials": "Not recorded",
+  "personalSessionVerification": {
+    "source": "User private browser confirmation",
+    "login": "passed",
+    "refreshPersistence": "passed",
+    "signOutAndSubsequentProtectedNavigation": "passed"
+  }
+}

@@ -1,0 +1,1330 @@
+{
+  "uniqueTeachings": 6,
+  "languageVersions": 12,
+  "unitChecks": "passed",
+  "layoutCases": [
+    {
+      "language": "en",
+      "width": 1536,
+      "filter": "all",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "en",
+          "title": "What is repentance?",
+          "read": "/teachings/what-is-repentance",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "en",
+          "title": "Understanding the sacraments",
+          "read": "/teachings/understanding-the-sacraments",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "en",
+          "title": "Learning from the Church Fathers",
+          "read": "/teachings/learning-from-the-church-fathers",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "en",
+          "title": "Faith and sacred tradition",
+          "read": "/teachings/tradition",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "en",
+          "title": "Preparing for confession",
+          "read": "/teachings/preparing-for-confession",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "en",
+          "title": "An introduction to baptism",
+          "read": "/teachings/baptism",
+          "versions": []
+        }
+      ],
+      "status": "6 teachings found",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "padding": "24px"
+      }
+    },
+    {
+      "language": "en",
+      "width": 1536,
+      "filter": "en",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "en",
+          "title": "What is repentance?",
+          "read": "/teachings/what-is-repentance?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "en",
+          "title": "Understanding the sacraments",
+          "read": "/teachings/understanding-the-sacraments?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "en",
+          "title": "Learning from the Church Fathers",
+          "read": "/teachings/learning-from-the-church-fathers?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "en",
+          "title": "Faith and sacred tradition",
+          "read": "/teachings/tradition?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "en",
+          "title": "Preparing for confession",
+          "read": "/teachings/preparing-for-confession?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "en",
+          "title": "An introduction to baptism",
+          "read": "/teachings/baptism?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        }
+      ],
+      "status": "6 teachings found",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "padding": "24px"
+      }
+    },
+    {
+      "language": "en",
+      "width": 1536,
+      "filter": "am",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "am",
+          "title": "ንስሐ ምንድን ነው?",
+          "read": "/teachings/repentance-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "am",
+          "title": "ምሥጢራትን መረዳት",
+          "read": "/teachings/sacraments-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "am",
+          "title": "ከቤተ ክርስቲያን አባቶች መማር",
+          "read": "/teachings/fathers-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "am",
+          "title": "እምነትና ቅዱስ ትውፊት",
+          "read": "/teachings/tradition-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "am",
+          "title": "ለንስሐ መዘጋጀት",
+          "read": "/teachings/confession-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "am",
+          "title": "ስለ ጥምቀት መግቢያ",
+          "read": "/teachings/baptism-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        }
+      ],
+      "status": "6 teachings found",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "padding": "24px"
+      }
+    },
+    {
+      "language": "en",
+      "width": 768,
+      "filter": "all",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "en",
+          "title": "What is repentance?",
+          "read": "/teachings/what-is-repentance",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "en",
+          "title": "Understanding the sacraments",
+          "read": "/teachings/understanding-the-sacraments",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "en",
+          "title": "Learning from the Church Fathers",
+          "read": "/teachings/learning-from-the-church-fathers",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "en",
+          "title": "Faith and sacred tradition",
+          "read": "/teachings/tradition",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "en",
+          "title": "Preparing for confession",
+          "read": "/teachings/preparing-for-confession",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "en",
+          "title": "An introduction to baptism",
+          "read": "/teachings/baptism",
+          "versions": []
+        }
+      ],
+      "status": "6 teachings found",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "padding": "24px"
+      }
+    },
+    {
+      "language": "en",
+      "width": 768,
+      "filter": "en",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "en",
+          "title": "What is repentance?",
+          "read": "/teachings/what-is-repentance?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "en",
+          "title": "Understanding the sacraments",
+          "read": "/teachings/understanding-the-sacraments?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "en",
+          "title": "Learning from the Church Fathers",
+          "read": "/teachings/learning-from-the-church-fathers?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "en",
+          "title": "Faith and sacred tradition",
+          "read": "/teachings/tradition?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "en",
+          "title": "Preparing for confession",
+          "read": "/teachings/preparing-for-confession?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "en",
+          "title": "An introduction to baptism",
+          "read": "/teachings/baptism?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        }
+      ],
+      "status": "6 teachings found",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "padding": "24px"
+      }
+    },
+    {
+      "language": "en",
+      "width": 768,
+      "filter": "am",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "am",
+          "title": "ንስሐ ምንድን ነው?",
+          "read": "/teachings/repentance-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "am",
+          "title": "ምሥጢራትን መረዳት",
+          "read": "/teachings/sacraments-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "am",
+          "title": "ከቤተ ክርስቲያን አባቶች መማር",
+          "read": "/teachings/fathers-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "am",
+          "title": "እምነትና ቅዱስ ትውፊት",
+          "read": "/teachings/tradition-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "am",
+          "title": "ለንስሐ መዘጋጀት",
+          "read": "/teachings/confession-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "am",
+          "title": "ስለ ጥምቀት መግቢያ",
+          "read": "/teachings/baptism-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        }
+      ],
+      "status": "6 teachings found",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "padding": "24px"
+      }
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "filter": "all",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "en",
+          "title": "What is repentance?",
+          "read": "/teachings/what-is-repentance",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "en",
+          "title": "Understanding the sacraments",
+          "read": "/teachings/understanding-the-sacraments",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "en",
+          "title": "Learning from the Church Fathers",
+          "read": "/teachings/learning-from-the-church-fathers",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "en",
+          "title": "Faith and sacred tradition",
+          "read": "/teachings/tradition",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "en",
+          "title": "Preparing for confession",
+          "read": "/teachings/preparing-for-confession",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "en",
+          "title": "An introduction to baptism",
+          "read": "/teachings/baptism",
+          "versions": []
+        }
+      ],
+      "status": "6 teachings found",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "padding": "20px"
+      }
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "filter": "en",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "en",
+          "title": "What is repentance?",
+          "read": "/teachings/what-is-repentance?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "en",
+          "title": "Understanding the sacraments",
+          "read": "/teachings/understanding-the-sacraments?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "en",
+          "title": "Learning from the Church Fathers",
+          "read": "/teachings/learning-from-the-church-fathers?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "en",
+          "title": "Faith and sacred tradition",
+          "read": "/teachings/tradition?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "en",
+          "title": "Preparing for confession",
+          "read": "/teachings/preparing-for-confession?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "en",
+          "title": "An introduction to baptism",
+          "read": "/teachings/baptism?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        }
+      ],
+      "status": "6 teachings found",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "padding": "20px"
+      }
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "filter": "am",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "am",
+          "title": "ንስሐ ምንድን ነው?",
+          "read": "/teachings/repentance-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "am",
+          "title": "ምሥጢራትን መረዳት",
+          "read": "/teachings/sacraments-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "am",
+          "title": "ከቤተ ክርስቲያን አባቶች መማር",
+          "read": "/teachings/fathers-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "am",
+          "title": "እምነትና ቅዱስ ትውፊት",
+          "read": "/teachings/tradition-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "am",
+          "title": "ለንስሐ መዘጋጀት",
+          "read": "/teachings/confession-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "am",
+          "title": "ስለ ጥምቀት መግቢያ",
+          "read": "/teachings/baptism-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        }
+      ],
+      "status": "6 teachings found",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "padding": "20px"
+      }
+    },
+    {
+      "language": "en",
+      "width": 320,
+      "filter": "all",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "en",
+          "title": "What is repentance?",
+          "read": "/teachings/what-is-repentance",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "en",
+          "title": "Understanding the sacraments",
+          "read": "/teachings/understanding-the-sacraments",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "en",
+          "title": "Learning from the Church Fathers",
+          "read": "/teachings/learning-from-the-church-fathers",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "en",
+          "title": "Faith and sacred tradition",
+          "read": "/teachings/tradition",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "en",
+          "title": "Preparing for confession",
+          "read": "/teachings/preparing-for-confession",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "en",
+          "title": "An introduction to baptism",
+          "read": "/teachings/baptism",
+          "versions": []
+        }
+      ],
+      "status": "6 teachings found",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "padding": "20px"
+      }
+    },
+    {
+      "language": "en",
+      "width": 320,
+      "filter": "en",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "en",
+          "title": "What is repentance?",
+          "read": "/teachings/what-is-repentance?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "en",
+          "title": "Understanding the sacraments",
+          "read": "/teachings/understanding-the-sacraments?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "en",
+          "title": "Learning from the Church Fathers",
+          "read": "/teachings/learning-from-the-church-fathers?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "en",
+          "title": "Faith and sacred tradition",
+          "read": "/teachings/tradition?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "en",
+          "title": "Preparing for confession",
+          "read": "/teachings/preparing-for-confession?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "en",
+          "title": "An introduction to baptism",
+          "read": "/teachings/baptism?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        }
+      ],
+      "status": "6 teachings found",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "padding": "20px"
+      }
+    },
+    {
+      "language": "en",
+      "width": 320,
+      "filter": "am",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "am",
+          "title": "ንስሐ ምንድን ነው?",
+          "read": "/teachings/repentance-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "am",
+          "title": "ምሥጢራትን መረዳት",
+          "read": "/teachings/sacraments-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "am",
+          "title": "ከቤተ ክርስቲያን አባቶች መማር",
+          "read": "/teachings/fathers-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "am",
+          "title": "እምነትና ቅዱስ ትውፊት",
+          "read": "/teachings/tradition-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "am",
+          "title": "ለንስሐ መዘጋጀት",
+          "read": "/teachings/confession-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "am",
+          "title": "ስለ ጥምቀት መግቢያ",
+          "read": "/teachings/baptism-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        }
+      ],
+      "status": "6 teachings found",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "padding": "20px"
+      }
+    },
+    {
+      "language": "am",
+      "width": 1536,
+      "filter": "all",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "am",
+          "title": "ንስሐ ምንድን ነው?",
+          "read": "/teachings/repentance-am",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "am",
+          "title": "ምሥጢራትን መረዳት",
+          "read": "/teachings/sacraments-am",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "am",
+          "title": "ከቤተ ክርስቲያን አባቶች መማር",
+          "read": "/teachings/fathers-am",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "am",
+          "title": "እምነትና ቅዱስ ትውፊት",
+          "read": "/teachings/tradition-am",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "am",
+          "title": "ለንስሐ መዘጋጀት",
+          "read": "/teachings/confession-am",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "am",
+          "title": "ስለ ጥምቀት መግቢያ",
+          "read": "/teachings/baptism-am",
+          "versions": []
+        }
+      ],
+      "status": "6 ትምህርቶች ተገኝተዋል",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "padding": "24px"
+      }
+    },
+    {
+      "language": "am",
+      "width": 1536,
+      "filter": "en",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "en",
+          "title": "What is repentance?",
+          "read": "/teachings/what-is-repentance?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "en",
+          "title": "Understanding the sacraments",
+          "read": "/teachings/understanding-the-sacraments?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "en",
+          "title": "Learning from the Church Fathers",
+          "read": "/teachings/learning-from-the-church-fathers?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "en",
+          "title": "Faith and sacred tradition",
+          "read": "/teachings/tradition?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "en",
+          "title": "Preparing for confession",
+          "read": "/teachings/preparing-for-confession?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "en",
+          "title": "An introduction to baptism",
+          "read": "/teachings/baptism?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        }
+      ],
+      "status": "6 ትምህርቶች ተገኝተዋል",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "padding": "24px"
+      }
+    },
+    {
+      "language": "am",
+      "width": 1536,
+      "filter": "am",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "am",
+          "title": "ንስሐ ምንድን ነው?",
+          "read": "/teachings/repentance-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "am",
+          "title": "ምሥጢራትን መረዳት",
+          "read": "/teachings/sacraments-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "am",
+          "title": "ከቤተ ክርስቲያን አባቶች መማር",
+          "read": "/teachings/fathers-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "am",
+          "title": "እምነትና ቅዱስ ትውፊት",
+          "read": "/teachings/tradition-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "am",
+          "title": "ለንስሐ መዘጋጀት",
+          "read": "/teachings/confession-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "am",
+          "title": "ስለ ጥምቀት መግቢያ",
+          "read": "/teachings/baptism-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        }
+      ],
+      "status": "6 ትምህርቶች ተገኝተዋል",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "padding": "24px"
+      }
+    },
+    {
+      "language": "am",
+      "width": 768,
+      "filter": "all",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "am",
+          "title": "ንስሐ ምንድን ነው?",
+          "read": "/teachings/repentance-am",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "am",
+          "title": "ምሥጢራትን መረዳት",
+          "read": "/teachings/sacraments-am",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "am",
+          "title": "ከቤተ ክርስቲያን አባቶች መማር",
+          "read": "/teachings/fathers-am",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "am",
+          "title": "እምነትና ቅዱስ ትውፊት",
+          "read": "/teachings/tradition-am",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "am",
+          "title": "ለንስሐ መዘጋጀት",
+          "read": "/teachings/confession-am",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "am",
+          "title": "ስለ ጥምቀት መግቢያ",
+          "read": "/teachings/baptism-am",
+          "versions": []
+        }
+      ],
+      "status": "6 ትምህርቶች ተገኝተዋል",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "padding": "24px"
+      }
+    },
+    {
+      "language": "am",
+      "width": 768,
+      "filter": "en",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "en",
+          "title": "What is repentance?",
+          "read": "/teachings/what-is-repentance?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "en",
+          "title": "Understanding the sacraments",
+          "read": "/teachings/understanding-the-sacraments?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "en",
+          "title": "Learning from the Church Fathers",
+          "read": "/teachings/learning-from-the-church-fathers?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "en",
+          "title": "Faith and sacred tradition",
+          "read": "/teachings/tradition?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "en",
+          "title": "Preparing for confession",
+          "read": "/teachings/preparing-for-confession?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "en",
+          "title": "An introduction to baptism",
+          "read": "/teachings/baptism?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        }
+      ],
+      "status": "6 ትምህርቶች ተገኝተዋል",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "padding": "24px"
+      }
+    },
+    {
+      "language": "am",
+      "width": 768,
+      "filter": "am",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "am",
+          "title": "ንስሐ ምንድን ነው?",
+          "read": "/teachings/repentance-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "am",
+          "title": "ምሥጢራትን መረዳት",
+          "read": "/teachings/sacraments-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "am",
+          "title": "ከቤተ ክርስቲያን አባቶች መማር",
+          "read": "/teachings/fathers-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "am",
+          "title": "እምነትና ቅዱስ ትውፊት",
+          "read": "/teachings/tradition-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "am",
+          "title": "ለንስሐ መዘጋጀት",
+          "read": "/teachings/confession-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "am",
+          "title": "ስለ ጥምቀት መግቢያ",
+          "read": "/teachings/baptism-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        }
+      ],
+      "status": "6 ትምህርቶች ተገኝተዋል",
+      "layout": {
+        "columns": 2,
+        "overflow": false,
+        "padding": "24px"
+      }
+    },
+    {
+      "language": "am",
+      "width": 390,
+      "filter": "all",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "am",
+          "title": "ንስሐ ምንድን ነው?",
+          "read": "/teachings/repentance-am",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "am",
+          "title": "ምሥጢራትን መረዳት",
+          "read": "/teachings/sacraments-am",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "am",
+          "title": "ከቤተ ክርስቲያን አባቶች መማር",
+          "read": "/teachings/fathers-am",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "am",
+          "title": "እምነትና ቅዱስ ትውፊት",
+          "read": "/teachings/tradition-am",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "am",
+          "title": "ለንስሐ መዘጋጀት",
+          "read": "/teachings/confession-am",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "am",
+          "title": "ስለ ጥምቀት መግቢያ",
+          "read": "/teachings/baptism-am",
+          "versions": []
+        }
+      ],
+      "status": "6 ትምህርቶች ተገኝተዋል",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "padding": "20px"
+      }
+    },
+    {
+      "language": "am",
+      "width": 390,
+      "filter": "en",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "en",
+          "title": "What is repentance?",
+          "read": "/teachings/what-is-repentance?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "en",
+          "title": "Understanding the sacraments",
+          "read": "/teachings/understanding-the-sacraments?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "en",
+          "title": "Learning from the Church Fathers",
+          "read": "/teachings/learning-from-the-church-fathers?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "en",
+          "title": "Faith and sacred tradition",
+          "read": "/teachings/tradition?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "en",
+          "title": "Preparing for confession",
+          "read": "/teachings/preparing-for-confession?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "en",
+          "title": "An introduction to baptism",
+          "read": "/teachings/baptism?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        }
+      ],
+      "status": "6 ትምህርቶች ተገኝተዋል",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "padding": "20px"
+      }
+    },
+    {
+      "language": "am",
+      "width": 390,
+      "filter": "am",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "am",
+          "title": "ንስሐ ምንድን ነው?",
+          "read": "/teachings/repentance-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "am",
+          "title": "ምሥጢራትን መረዳት",
+          "read": "/teachings/sacraments-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "am",
+          "title": "ከቤተ ክርስቲያን አባቶች መማር",
+          "read": "/teachings/fathers-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "am",
+          "title": "እምነትና ቅዱስ ትውፊት",
+          "read": "/teachings/tradition-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "am",
+          "title": "ለንስሐ መዘጋጀት",
+          "read": "/teachings/confession-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "am",
+          "title": "ስለ ጥምቀት መግቢያ",
+          "read": "/teachings/baptism-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        }
+      ],
+      "status": "6 ትምህርቶች ተገኝተዋል",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "padding": "20px"
+      }
+    },
+    {
+      "language": "am",
+      "width": 320,
+      "filter": "all",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "am",
+          "title": "ንስሐ ምንድን ነው?",
+          "read": "/teachings/repentance-am",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "am",
+          "title": "ምሥጢራትን መረዳት",
+          "read": "/teachings/sacraments-am",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "am",
+          "title": "ከቤተ ክርስቲያን አባቶች መማር",
+          "read": "/teachings/fathers-am",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "am",
+          "title": "እምነትና ቅዱስ ትውፊት",
+          "read": "/teachings/tradition-am",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "am",
+          "title": "ለንስሐ መዘጋጀት",
+          "read": "/teachings/confession-am",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "am",
+          "title": "ስለ ጥምቀት መግቢያ",
+          "read": "/teachings/baptism-am",
+          "versions": []
+        }
+      ],
+      "status": "6 ትምህርቶች ተገኝተዋል",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "padding": "20px"
+      }
+    },
+    {
+      "language": "am",
+      "width": 320,
+      "filter": "en",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "en",
+          "title": "What is repentance?",
+          "read": "/teachings/what-is-repentance?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "en",
+          "title": "Understanding the sacraments",
+          "read": "/teachings/understanding-the-sacraments?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "en",
+          "title": "Learning from the Church Fathers",
+          "read": "/teachings/learning-from-the-church-fathers?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "en",
+          "title": "Faith and sacred tradition",
+          "read": "/teachings/tradition?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "en",
+          "title": "Preparing for confession",
+          "read": "/teachings/preparing-for-confession?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "en",
+          "title": "An introduction to baptism",
+          "read": "/teachings/baptism?library=%2Fteachings%3Flanguage%3Den",
+          "versions": []
+        }
+      ],
+      "status": "6 ትምህርቶች ተገኝተዋል",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "padding": "20px"
+      }
+    },
+    {
+      "language": "am",
+      "width": 320,
+      "filter": "am",
+      "cards": [
+        {
+          "id": "sample-repentance",
+          "language": "am",
+          "title": "ንስሐ ምንድን ነው?",
+          "read": "/teachings/repentance-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-sacraments",
+          "language": "am",
+          "title": "ምሥጢራትን መረዳት",
+          "read": "/teachings/sacraments-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-fathers",
+          "language": "am",
+          "title": "ከቤተ ክርስቲያን አባቶች መማር",
+          "read": "/teachings/fathers-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-tradition",
+          "language": "am",
+          "title": "እምነትና ቅዱስ ትውፊት",
+          "read": "/teachings/tradition-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-confession",
+          "language": "am",
+          "title": "ለንስሐ መዘጋጀት",
+          "read": "/teachings/confession-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        },
+        {
+          "id": "sample-baptism",
+          "language": "am",
+          "title": "ስለ ጥምቀት መግቢያ",
+          "read": "/teachings/baptism-am?library=%2Fteachings%3Flanguage%3Dam",
+          "versions": []
+        }
+      ],
+      "status": "6 ትምህርቶች ተገኝተዋል",
+      "layout": {
+        "columns": 1,
+        "overflow": false,
+        "padding": "20px"
+      }
+    }
+  ],
+  "articleChecks": 24,
+  "functionality": "passed",
+  "errors": []
+}

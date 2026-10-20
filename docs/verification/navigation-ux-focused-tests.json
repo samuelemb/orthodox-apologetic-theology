@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-16",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "Back to teachings uses styled dialog; Stay/Escape preserve text, trap focus and restore link focus",
+      "status": "passed"
+    },
+    {
+      "name": "Discard resumes sidebar navigation with no native confirmation",
+      "status": "passed"
+    },
+    {
+      "name": "Browser Back uses same modal; cancellation stays, confirmation returns to list",
+      "status": "passed"
+    },
+    {
+      "name": "Native browser reload warning remains; cancellation retains content",
+      "status": "passed"
+    },
+    {
+      "name": "Amharic modal fits mobile and Stay preserves draft",
+      "status": "passed"
+    },
+    {
+      "name": "Sign-out uses modal and proceeds only after explicit discard",
+      "status": "passed"
+    }
+  ],
+  "cleanup": [
+    {
+      "item": "run-marked temporary owner",
+      "status": "passed"
+    },
+    {
+      "item": "permanent owner and existing teachings preserved; no test content saved",
+      "status": "passed"
+    }
+  ],
+  "nativeInAppConfirmations": 0,
+  "nativeUnloadWarnings": 1
+}

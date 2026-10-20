@@ -1,0 +1,4403 @@
+{
+  "results": [
+    {
+      "language": "en",
+      "width": 1536,
+      "route": "/about",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24.8px",
+          "lineHeight": "27.776px",
+          "spacing": "-1.116px",
+          "weight": "600"
+        },
+        {
+          "text": "Home",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Feedback",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About this teaching library",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "68.8px",
+          "lineHeight": "79.12px",
+          "spacing": "-3.096px",
+          "weight": "600"
+        },
+        {
+          "text": "Why this website exists",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "36px",
+          "lineHeight": "43.2px",
+          "spacing": "-1.44px",
+          "weight": "600"
+        },
+        {
+          "text": "Teachings can be difficult to find in a busy channel. This new library is being prepared for the owner to publish Orthodox teachings organized by topic, making it easier to discover a teaching, return to it, and continue learning.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "21.6px",
+          "lineHeight": "32.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "What you will find",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "36px",
+          "lineHeight": "43.2px",
+          "spacing": "-1.44px",
+          "weight": "600"
+        },
+        {
+          "text": "The library will offer teachings on repentance, the sacraments, the Church Fathers, and apologetics: questions about the Orthodox faith. Teachings will be available in Amharic or English, with videos alongside selected articles. The current teachings are samples for review.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "21.6px",
+          "lineHeight": "32.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "How to use the library",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "36px",
+          "lineHeight": "43.2px",
+          "spacing": "-1.44px",
+          "weight": "600"
+        },
+        {
+          "text": "Browse a topic or search by keyword or question. Use the teaching language filter to find material you can read comfortably. Choose English or Amharic in the header for the interface; this does not translate the teaching itself.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "21.6px",
+          "lineHeight": "32.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Explore our topics",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "29.6px",
+          "lineHeight": "35.52px",
+          "spacing": "-1.184px",
+          "weight": "600"
+        },
+        {
+          "text": "Continue learning with us",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "30.4px",
+          "lineHeight": "36.48px",
+          "spacing": "-1.216px",
+          "weight": "600"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "17.92px",
+          "spacing": "-0.72px",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "width": 1536,
+      "route": "/",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24.8px",
+          "lineHeight": "27.776px",
+          "spacing": "-1.116px",
+          "weight": "600"
+        },
+        {
+          "text": "Home",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Feedback",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Explore the faith.Deepen your understanding.",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "60px",
+          "lineHeight": "67.2px",
+          "spacing": "-2.7px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore by topic",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "36px",
+          "lineHeight": "43.2px",
+          "spacing": "-1.44px",
+          "weight": "600"
+        },
+        {
+          "text": "Latest teachings",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "36px",
+          "lineHeight": "43.2px",
+          "spacing": "-1.44px",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore what repentance means in the Orthodox Christian life and why it is central to our journey toward God.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Understanding the sacraments",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "A clear introduction to the sacraments, their meaning, and their role in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Learning from the Church Fathers",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Discover how the teachings of the Church Fathers guide us in faith, life, and discernment today.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "A place to learn and grow",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "30.4px",
+          "lineHeight": "36.48px",
+          "spacing": "-1.216px",
+          "weight": "600"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "17.92px",
+          "spacing": "-0.72px",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "width": 1536,
+      "route": "/teachings",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24.8px",
+          "lineHeight": "27.776px",
+          "spacing": "-1.116px",
+          "weight": "600"
+        },
+        {
+          "text": "Home",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Feedback",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings library",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "60px",
+          "lineHeight": "72px",
+          "spacing": "-2.7px",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore what repentance means in the Orthodox Christian life and why it is central to our journey toward God.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Understanding the sacraments",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "A clear introduction to the sacraments, their meaning, and their role in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Learning from the Church Fathers",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Discover how the teachings of the Church Fathers guide us in faith, life, and discernment today.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ንስሐ ምንድን ነው?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "26px",
+          "lineHeight": "36.4px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ በኦርቶዶክስ ክርስቲያናዊ ሕይወት ምን ማለት እንደሆነና ወደ እግዚአብሔር በምናደርገው ጉዞ ያለውን አስፈላጊነት ይወቁ።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "19px",
+          "lineHeight": "33.25px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Faith and sacred tradition",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore the relationship between faith and sacred tradition in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Preparing for confession",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Practical guidance on how to prepare for confession and approach this sacrament with a humble and sincere heart.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "17.92px",
+          "spacing": "-0.72px",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "width": 1536,
+      "route": "/teachings/repentance-am",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24.8px",
+          "lineHeight": "27.776px",
+          "spacing": "-1.116px",
+          "weight": "600"
+        },
+        {
+          "text": "Home",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Feedback",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "On this page",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24px",
+          "lineHeight": "28.8px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ ምንድን ነው?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "48px",
+          "lineHeight": "67.2px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መግቢያ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ ልብን ወደ እግዚአብሔር መመለስ ነው። ሕይወታችንን እንድንመረምር፣ ስህተታችንን እንድንቀበልና በጸጋው እንድንታደስ ይጋብዘናል።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "19px",
+          "lineHeight": "33.25px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "የንስሐ ሕይወት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ይህ የናሙና ትምህርት ጸሎት፣ ንስሐና የዕለት ተዕለት ምርጫዎች የንስሐ ሕይወትን እንዴት እንደሚቀርጹ ያስተዋውቃል።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "19px",
+          "lineHeight": "33.25px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Continue reading",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "17.92px",
+          "spacing": "-0.72px",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "width": 1536,
+      "route": "/teachings/what-is-repentance",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24.8px",
+          "lineHeight": "27.776px",
+          "spacing": "-1.116px",
+          "weight": "600"
+        },
+        {
+          "text": "Home",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Feedback",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "On this page",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24px",
+          "lineHeight": "28.8px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "56px",
+          "lineHeight": "67.2px",
+          "spacing": "-2.52px",
+          "weight": "600"
+        },
+        {
+          "text": "Introduction",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "36px",
+          "lineHeight": "43.2px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "Repentance is a turning of the heart toward God. It invites us to examine our lives, acknowledge our failings, and seek renewal through His grace.",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "18.4px",
+          "lineHeight": "30.36px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Watch the teaching",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "36px",
+          "lineHeight": "43.2px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "A life of repentance",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "36px",
+          "lineHeight": "43.2px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "This sample teaching explores how prayer, confession, and daily choices can shape a life of repentance.",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "18.4px",
+          "lineHeight": "30.36px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Continue reading",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "17.92px",
+          "spacing": "-0.72px",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/about",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "15.2px",
+          "lineHeight": "17.024px",
+          "spacing": "-0.684px",
+          "weight": "600"
+        },
+        {
+          "text": "Home",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Feedback",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About this teaching library",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "35.2px",
+          "lineHeight": "40.48px",
+          "spacing": "-1.584px",
+          "weight": "600"
+        },
+        {
+          "text": "Why this website exists",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24.8px",
+          "lineHeight": "29.76px",
+          "spacing": "-0.992px",
+          "weight": "600"
+        },
+        {
+          "text": "Teachings can be difficult to find in a busy channel. This new library is being prepared for the owner to publish Orthodox teachings organized by topic, making it easier to discover a teaching, return to it, and continue learning.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "24px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "What you will find",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24.8px",
+          "lineHeight": "29.76px",
+          "spacing": "-0.992px",
+          "weight": "600"
+        },
+        {
+          "text": "The library will offer teachings on repentance, the sacraments, the Church Fathers, and apologetics: questions about the Orthodox faith. Teachings will be available in Amharic or English, with videos alongside selected articles. The current teachings are samples for review.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "24px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "How to use the library",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24.8px",
+          "lineHeight": "29.76px",
+          "spacing": "-0.992px",
+          "weight": "600"
+        },
+        {
+          "text": "Browse a topic or search by keyword or question. Use the teaching language filter to find material you can read comfortably. Choose English or Amharic in the header for the interface; this does not translate the teaching itself.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "24px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Explore our topics",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24px",
+          "lineHeight": "28.8px",
+          "spacing": "-0.96px",
+          "weight": "600"
+        },
+        {
+          "text": "Continue learning with us",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24px",
+          "lineHeight": "28.8px",
+          "spacing": "-0.96px",
+          "weight": "600"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "17.92px",
+          "spacing": "-0.72px",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "15.2px",
+          "lineHeight": "17.024px",
+          "spacing": "-0.684px",
+          "weight": "600"
+        },
+        {
+          "text": "Home",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Feedback",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Explore the faith.Deepen your understanding.",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "32.8px",
+          "lineHeight": "36.736px",
+          "spacing": "-1.476px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore by topic",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.056px",
+          "weight": "600"
+        },
+        {
+          "text": "Latest teachings",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.056px",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "-0.936px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore what repentance means in the Orthodox Christian life and why it is central to our journey toward God.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Understanding the sacraments",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "-0.936px",
+          "weight": "600"
+        },
+        {
+          "text": "A clear introduction to the sacraments, their meaning, and their role in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Learning from the Church Fathers",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "-0.936px",
+          "weight": "600"
+        },
+        {
+          "text": "Discover how the teachings of the Church Fathers guide us in faith, life, and discernment today.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "A place to learn and grow",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "25.6px",
+          "lineHeight": "30.72px",
+          "spacing": "-1.024px",
+          "weight": "600"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "17.92px",
+          "spacing": "-0.72px",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/teachings",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "15.2px",
+          "lineHeight": "17.024px",
+          "spacing": "-0.684px",
+          "weight": "600"
+        },
+        {
+          "text": "Home",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Feedback",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings library",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "40px",
+          "lineHeight": "48px",
+          "spacing": "-1.8px",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore what repentance means in the Orthodox Christian life and why it is central to our journey toward God.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Understanding the sacraments",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "A clear introduction to the sacraments, their meaning, and their role in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Learning from the Church Fathers",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Discover how the teachings of the Church Fathers guide us in faith, life, and discernment today.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ንስሐ ምንድን ነው?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "22px",
+          "lineHeight": "30.8px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ በኦርቶዶክስ ክርስቲያናዊ ሕይወት ምን ማለት እንደሆነና ወደ እግዚአብሔር በምናደርገው ጉዞ ያለውን አስፈላጊነት ይወቁ።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Faith and sacred tradition",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore the relationship between faith and sacred tradition in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Preparing for confession",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Practical guidance on how to prepare for confession and approach this sacrament with a humble and sincere heart.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "17.92px",
+          "spacing": "-0.72px",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/teachings/repentance-am",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "15.2px",
+          "lineHeight": "17.024px",
+          "spacing": "-0.684px",
+          "weight": "600"
+        },
+        {
+          "text": "Home",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Feedback",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "On this page",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "19.2px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ ምንድን ነው?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መግቢያ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ ልብን ወደ እግዚአብሔር መመለስ ነው። ሕይወታችንን እንድንመረምር፣ ስህተታችንን እንድንቀበልና በጸጋው እንድንታደስ ይጋብዘናል።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "የንስሐ ሕይወት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ይህ የናሙና ትምህርት ጸሎት፣ ንስሐና የዕለት ተዕለት ምርጫዎች የንስሐ ሕይወትን እንዴት እንደሚቀርጹ ያስተዋውቃል።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Continue reading",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "17.92px",
+          "spacing": "-0.72px",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "route": "/teachings/what-is-repentance",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "15.2px",
+          "lineHeight": "17.024px",
+          "spacing": "-0.684px",
+          "weight": "600"
+        },
+        {
+          "text": "Home",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Feedback",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "On this page",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "19.2px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "34.4px",
+          "lineHeight": "41.28px",
+          "spacing": "-1.548px",
+          "weight": "600"
+        },
+        {
+          "text": "Introduction",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "27.2px",
+          "lineHeight": "32.64px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "Repentance is a turning of the heart toward God. It invites us to examine our lives, acknowledge our failings, and seek renewal through His grace.",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "18.4px",
+          "lineHeight": "30.36px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Watch the teaching",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "27.2px",
+          "lineHeight": "32.64px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "A life of repentance",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "27.2px",
+          "lineHeight": "32.64px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "This sample teaching explores how prayer, confession, and daily choices can shape a life of repentance.",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "18.4px",
+          "lineHeight": "30.36px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Continue reading",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "17.92px",
+          "spacing": "-0.72px",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "width": 320,
+      "route": "/about",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "15.2px",
+          "lineHeight": "17.024px",
+          "spacing": "-0.684px",
+          "weight": "600"
+        },
+        {
+          "text": "Home",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Feedback",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About this teaching library",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "35.2px",
+          "lineHeight": "40.48px",
+          "spacing": "-1.584px",
+          "weight": "600"
+        },
+        {
+          "text": "Why this website exists",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24.8px",
+          "lineHeight": "29.76px",
+          "spacing": "-0.992px",
+          "weight": "600"
+        },
+        {
+          "text": "Teachings can be difficult to find in a busy channel. This new library is being prepared for the owner to publish Orthodox teachings organized by topic, making it easier to discover a teaching, return to it, and continue learning.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "24px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "What you will find",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24.8px",
+          "lineHeight": "29.76px",
+          "spacing": "-0.992px",
+          "weight": "600"
+        },
+        {
+          "text": "The library will offer teachings on repentance, the sacraments, the Church Fathers, and apologetics: questions about the Orthodox faith. Teachings will be available in Amharic or English, with videos alongside selected articles. The current teachings are samples for review.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "24px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "How to use the library",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24.8px",
+          "lineHeight": "29.76px",
+          "spacing": "-0.992px",
+          "weight": "600"
+        },
+        {
+          "text": "Browse a topic or search by keyword or question. Use the teaching language filter to find material you can read comfortably. Choose English or Amharic in the header for the interface; this does not translate the teaching itself.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "24px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Explore our topics",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24px",
+          "lineHeight": "28.8px",
+          "spacing": "-0.96px",
+          "weight": "600"
+        },
+        {
+          "text": "Continue learning with us",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "24px",
+          "lineHeight": "28.8px",
+          "spacing": "-0.96px",
+          "weight": "600"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "17.92px",
+          "spacing": "-0.72px",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "width": 320,
+      "route": "/",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "15.2px",
+          "lineHeight": "17.024px",
+          "spacing": "-0.684px",
+          "weight": "600"
+        },
+        {
+          "text": "Home",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Feedback",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Explore the faith.Deepen your understanding.",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "32.8px",
+          "lineHeight": "36.736px",
+          "spacing": "-1.476px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore by topic",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.056px",
+          "weight": "600"
+        },
+        {
+          "text": "Latest teachings",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.056px",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "-0.936px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore what repentance means in the Orthodox Christian life and why it is central to our journey toward God.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Understanding the sacraments",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "-0.936px",
+          "weight": "600"
+        },
+        {
+          "text": "A clear introduction to the sacraments, their meaning, and their role in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Learning from the Church Fathers",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "-0.936px",
+          "weight": "600"
+        },
+        {
+          "text": "Discover how the teachings of the Church Fathers guide us in faith, life, and discernment today.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "A place to learn and grow",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "25.6px",
+          "lineHeight": "30.72px",
+          "spacing": "-1.024px",
+          "weight": "600"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "17.92px",
+          "spacing": "-0.72px",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "width": 320,
+      "route": "/teachings",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "15.2px",
+          "lineHeight": "17.024px",
+          "spacing": "-0.684px",
+          "weight": "600"
+        },
+        {
+          "text": "Home",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Feedback",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings library",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "40px",
+          "lineHeight": "48px",
+          "spacing": "-1.8px",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore what repentance means in the Orthodox Christian life and why it is central to our journey toward God.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Understanding the sacraments",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "A clear introduction to the sacraments, their meaning, and their role in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Learning from the Church Fathers",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Discover how the teachings of the Church Fathers guide us in faith, life, and discernment today.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ንስሐ ምንድን ነው?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "22px",
+          "lineHeight": "30.8px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ በኦርቶዶክስ ክርስቲያናዊ ሕይወት ምን ማለት እንደሆነና ወደ እግዚአብሔር በምናደርገው ጉዞ ያለውን አስፈላጊነት ይወቁ።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Faith and sacred tradition",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore the relationship between faith and sacred tradition in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Preparing for confession",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Practical guidance on how to prepare for confession and approach this sacrament with a humble and sincere heart.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "17.92px",
+          "spacing": "-0.72px",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "width": 320,
+      "route": "/teachings/repentance-am",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "15.2px",
+          "lineHeight": "17.024px",
+          "spacing": "-0.684px",
+          "weight": "600"
+        },
+        {
+          "text": "Home",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Feedback",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "On this page",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "19.2px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ ምንድን ነው?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መግቢያ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ ልብን ወደ እግዚአብሔር መመለስ ነው። ሕይወታችንን እንድንመረምር፣ ስህተታችንን እንድንቀበልና በጸጋው እንድንታደስ ይጋብዘናል።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "የንስሐ ሕይወት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ይህ የናሙና ትምህርት ጸሎት፣ ንስሐና የዕለት ተዕለት ምርጫዎች የንስሐ ሕይወትን እንዴት እንደሚቀርጹ ያስተዋውቃል።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Continue reading",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "17.92px",
+          "spacing": "-0.72px",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "width": 320,
+      "route": "/teachings/what-is-repentance",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "15.2px",
+          "lineHeight": "17.024px",
+          "spacing": "-0.684px",
+          "weight": "600"
+        },
+        {
+          "text": "Home",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Teachings",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "About",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Feedback",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "26.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "On this page",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "19.2px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "34.4px",
+          "lineHeight": "41.28px",
+          "spacing": "-1.548px",
+          "weight": "600"
+        },
+        {
+          "text": "Introduction",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "27.2px",
+          "lineHeight": "32.64px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "Repentance is a turning of the heart toward God. It invites us to examine our lives, acknowledge our failings, and seek renewal through His grace.",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "18.4px",
+          "lineHeight": "30.36px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Watch the teaching",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "27.2px",
+          "lineHeight": "32.64px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "A life of repentance",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "27.2px",
+          "lineHeight": "32.64px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "This sample teaching explores how prayer, confession, and daily choices can shape a life of repentance.",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "18.4px",
+          "lineHeight": "30.36px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Continue reading",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "16px",
+          "lineHeight": "17.92px",
+          "spacing": "-0.72px",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "am",
+      "width": 1536,
+      "route": "/about",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "22px",
+          "lineHeight": "30.8px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መነሻ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለ እኛ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "አስተያየት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለዚህ የትምህርት ቤተ መጻሕፍት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "48px",
+          "lineHeight": "67.2px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ይህ ድረ ገጽ ለምን ተዘጋጀ?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ብዙ መልእክቶች ባሉበት ቻናል ውስጥ ትምህርቶችን ማግኘት አስቸጋሪ ሊሆን ይችላል። ባለቤቱ የኦርቶዶክስ ትምህርቶችን በርዕስ አደራጅቶ ለማተም ይህ አዲስ ቤተ መጻሕፍት እየተዘጋጀ ነው። ይህም ትምህርትን ለማግኘት፣ ተመልሶ ለማንበብና መማርን ለመቀጠል ያግዛል።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "19px",
+          "lineHeight": "33.25px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ምን ያገኛሉ?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ቤተ መጻሕፍቱ ስለ ንስሐ፣ ምሥጢራት፣ የቤተ ክርስቲያን አባቶችና የኦርቶዶክስ እምነት ጥያቄዎችን ስለሚመልስ የእምነት መከላከያ ትምህርቶችን ያቀርባል። ትምህርቶች በአማርኛ ወይም በእንግሊዝኛ ይቀርባሉ፤ ከተመረጡ ጽሑፎች ጋር ቪዲዮዎችም ይኖራሉ። አሁን ያሉት ትምህርቶች ለግምገማ የቀረቡ ናሙናዎች ናቸው።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "19px",
+          "lineHeight": "33.25px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ቤተ መጻሕፍቱን እንዴት ይጠቀሙ?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "በርዕስ ያስሱ ወይም በቁልፍ ቃልና በጥያቄ ይፈልጉ። በሚመችዎት ቋንቋ ያለ ትምህርት ለማግኘት የትምህርት ቋንቋ ማጣሪያውን ይጠቀሙ። ለበይነገጹ በገጹ አናት እንግሊዝኛን ወይም አማርኛን ይምረጡ፤ ይህ ትምህርቱን አይተረጉምም።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "19px",
+          "lineHeight": "33.25px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ርዕሶቻችንን ያስሱ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ከእኛ ጋር መማርዎን ይቀጥሉ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "am",
+      "width": 1536,
+      "route": "/",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "22px",
+          "lineHeight": "30.8px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መነሻ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለ እኛ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "አስተያየት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "እምነትን ይወቁ። ግንዛቤዎን ያጥልቁ።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "48px",
+          "lineHeight": "67.2px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "በርዕስ ያስሱ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "የቅርብ ጊዜ ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore what repentance means in the Orthodox Christian life and why it is central to our journey toward God.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Understanding the sacraments",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "A clear introduction to the sacraments, their meaning, and their role in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Learning from the Church Fathers",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Discover how the teachings of the Church Fathers guide us in faith, life, and discernment today.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "የመማሪያና የማደጊያ ቦታ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "am",
+      "width": 1536,
+      "route": "/teachings",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "22px",
+          "lineHeight": "30.8px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መነሻ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለ እኛ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "አስተያየት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "የትምህርቶች ቤተ መጻሕፍት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "48px",
+          "lineHeight": "67.2px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore what repentance means in the Orthodox Christian life and why it is central to our journey toward God.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Understanding the sacraments",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "A clear introduction to the sacraments, their meaning, and their role in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Learning from the Church Fathers",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Discover how the teachings of the Church Fathers guide us in faith, life, and discernment today.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ንስሐ ምንድን ነው?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "26px",
+          "lineHeight": "36.4px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ በኦርቶዶክስ ክርስቲያናዊ ሕይወት ምን ማለት እንደሆነና ወደ እግዚአብሔር በምናደርገው ጉዞ ያለውን አስፈላጊነት ይወቁ።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "19px",
+          "lineHeight": "33.25px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Faith and sacred tradition",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore the relationship between faith and sacred tradition in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Preparing for confession",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Practical guidance on how to prepare for confession and approach this sacrament with a humble and sincere heart.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "am",
+      "width": 1536,
+      "route": "/teachings/repentance-am",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "22px",
+          "lineHeight": "30.8px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መነሻ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለ እኛ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "አስተያየት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "በዚህ ገጽ ላይ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ ምንድን ነው?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "48px",
+          "lineHeight": "67.2px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መግቢያ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ ልብን ወደ እግዚአብሔር መመለስ ነው። ሕይወታችንን እንድንመረምር፣ ስህተታችንን እንድንቀበልና በጸጋው እንድንታደስ ይጋብዘናል።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "19px",
+          "lineHeight": "33.25px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "የንስሐ ሕይወት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ይህ የናሙና ትምህርት ጸሎት፣ ንስሐና የዕለት ተዕለት ምርጫዎች የንስሐ ሕይወትን እንዴት እንደሚቀርጹ ያስተዋውቃል።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "19px",
+          "lineHeight": "33.25px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ማንበብዎን ይቀጥሉ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "am",
+      "width": 1536,
+      "route": "/teachings/what-is-repentance",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "22px",
+          "lineHeight": "30.8px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መነሻ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለ እኛ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "አስተያየት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "በዚህ ገጽ ላይ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "56px",
+          "lineHeight": "67.2px",
+          "spacing": "-2.52px",
+          "weight": "600"
+        },
+        {
+          "text": "Introduction",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "36px",
+          "lineHeight": "43.2px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "Repentance is a turning of the heart toward God. It invites us to examine our lives, acknowledge our failings, and seek renewal through His grace.",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "18.4px",
+          "lineHeight": "30.36px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Watch the teaching",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "36px",
+          "lineHeight": "43.2px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "A life of repentance",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "36px",
+          "lineHeight": "43.2px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "This sample teaching explores how prayer, confession, and daily choices can shape a life of repentance.",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "18.4px",
+          "lineHeight": "30.36px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ማንበብዎን ይቀጥሉ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "am",
+      "width": 390,
+      "route": "/about",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "15px",
+          "lineHeight": "21px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መነሻ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለ እኛ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "አስተያየት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለዚህ የትምህርት ቤተ መጻሕፍት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ይህ ድረ ገጽ ለምን ተዘጋጀ?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ብዙ መልእክቶች ባሉበት ቻናል ውስጥ ትምህርቶችን ማግኘት አስቸጋሪ ሊሆን ይችላል። ባለቤቱ የኦርቶዶክስ ትምህርቶችን በርዕስ አደራጅቶ ለማተም ይህ አዲስ ቤተ መጻሕፍት እየተዘጋጀ ነው። ይህም ትምህርትን ለማግኘት፣ ተመልሶ ለማንበብና መማርን ለመቀጠል ያግዛል።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ምን ያገኛሉ?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ቤተ መጻሕፍቱ ስለ ንስሐ፣ ምሥጢራት፣ የቤተ ክርስቲያን አባቶችና የኦርቶዶክስ እምነት ጥያቄዎችን ስለሚመልስ የእምነት መከላከያ ትምህርቶችን ያቀርባል። ትምህርቶች በአማርኛ ወይም በእንግሊዝኛ ይቀርባሉ፤ ከተመረጡ ጽሑፎች ጋር ቪዲዮዎችም ይኖራሉ። አሁን ያሉት ትምህርቶች ለግምገማ የቀረቡ ናሙናዎች ናቸው።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ቤተ መጻሕፍቱን እንዴት ይጠቀሙ?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "በርዕስ ያስሱ ወይም በቁልፍ ቃልና በጥያቄ ይፈልጉ። በሚመችዎት ቋንቋ ያለ ትምህርት ለማግኘት የትምህርት ቋንቋ ማጣሪያውን ይጠቀሙ። ለበይነገጹ በገጹ አናት እንግሊዝኛን ወይም አማርኛን ይምረጡ፤ ይህ ትምህርቱን አይተረጉምም።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ርዕሶቻችንን ያስሱ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ከእኛ ጋር መማርዎን ይቀጥሉ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "am",
+      "width": 390,
+      "route": "/",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "15px",
+          "lineHeight": "21px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መነሻ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለ እኛ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "አስተያየት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "እምነትን ይወቁ። ግንዛቤዎን ያጥልቁ።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "በርዕስ ያስሱ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "የቅርብ ጊዜ ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "-0.936px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore what repentance means in the Orthodox Christian life and why it is central to our journey toward God.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Understanding the sacraments",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "-0.936px",
+          "weight": "600"
+        },
+        {
+          "text": "A clear introduction to the sacraments, their meaning, and their role in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Learning from the Church Fathers",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "-0.936px",
+          "weight": "600"
+        },
+        {
+          "text": "Discover how the teachings of the Church Fathers guide us in faith, life, and discernment today.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "የመማሪያና የማደጊያ ቦታ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "am",
+      "width": 390,
+      "route": "/teachings",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "15px",
+          "lineHeight": "21px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መነሻ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለ እኛ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "አስተያየት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "የትምህርቶች ቤተ መጻሕፍት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore what repentance means in the Orthodox Christian life and why it is central to our journey toward God.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Understanding the sacraments",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "A clear introduction to the sacraments, their meaning, and their role in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Learning from the Church Fathers",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Discover how the teachings of the Church Fathers guide us in faith, life, and discernment today.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ንስሐ ምንድን ነው?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "22px",
+          "lineHeight": "30.8px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ በኦርቶዶክስ ክርስቲያናዊ ሕይወት ምን ማለት እንደሆነና ወደ እግዚአብሔር በምናደርገው ጉዞ ያለውን አስፈላጊነት ይወቁ።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Faith and sacred tradition",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore the relationship between faith and sacred tradition in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Preparing for confession",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Practical guidance on how to prepare for confession and approach this sacrament with a humble and sincere heart.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "am",
+      "width": 390,
+      "route": "/teachings/repentance-am",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "15px",
+          "lineHeight": "21px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መነሻ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለ እኛ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "አስተያየት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "በዚህ ገጽ ላይ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ ምንድን ነው?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መግቢያ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ ልብን ወደ እግዚአብሔር መመለስ ነው። ሕይወታችንን እንድንመረምር፣ ስህተታችንን እንድንቀበልና በጸጋው እንድንታደስ ይጋብዘናል።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "የንስሐ ሕይወት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ይህ የናሙና ትምህርት ጸሎት፣ ንስሐና የዕለት ተዕለት ምርጫዎች የንስሐ ሕይወትን እንዴት እንደሚቀርጹ ያስተዋውቃል።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ማንበብዎን ይቀጥሉ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "am",
+      "width": 390,
+      "route": "/teachings/what-is-repentance",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "15px",
+          "lineHeight": "21px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መነሻ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለ እኛ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "አስተያየት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "በዚህ ገጽ ላይ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "34.4px",
+          "lineHeight": "41.28px",
+          "spacing": "-1.548px",
+          "weight": "600"
+        },
+        {
+          "text": "Introduction",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "27.2px",
+          "lineHeight": "32.64px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "Repentance is a turning of the heart toward God. It invites us to examine our lives, acknowledge our failings, and seek renewal through His grace.",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "18.4px",
+          "lineHeight": "30.36px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Watch the teaching",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "27.2px",
+          "lineHeight": "32.64px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "A life of repentance",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "27.2px",
+          "lineHeight": "32.64px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "This sample teaching explores how prayer, confession, and daily choices can shape a life of repentance.",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "18.4px",
+          "lineHeight": "30.36px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ማንበብዎን ይቀጥሉ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "am",
+      "width": 320,
+      "route": "/about",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "15px",
+          "lineHeight": "21px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መነሻ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለ እኛ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "አስተያየት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለዚህ የትምህርት ቤተ መጻሕፍት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ይህ ድረ ገጽ ለምን ተዘጋጀ?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ብዙ መልእክቶች ባሉበት ቻናል ውስጥ ትምህርቶችን ማግኘት አስቸጋሪ ሊሆን ይችላል። ባለቤቱ የኦርቶዶክስ ትምህርቶችን በርዕስ አደራጅቶ ለማተም ይህ አዲስ ቤተ መጻሕፍት እየተዘጋጀ ነው። ይህም ትምህርትን ለማግኘት፣ ተመልሶ ለማንበብና መማርን ለመቀጠል ያግዛል።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ምን ያገኛሉ?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ቤተ መጻሕፍቱ ስለ ንስሐ፣ ምሥጢራት፣ የቤተ ክርስቲያን አባቶችና የኦርቶዶክስ እምነት ጥያቄዎችን ስለሚመልስ የእምነት መከላከያ ትምህርቶችን ያቀርባል። ትምህርቶች በአማርኛ ወይም በእንግሊዝኛ ይቀርባሉ፤ ከተመረጡ ጽሑፎች ጋር ቪዲዮዎችም ይኖራሉ። አሁን ያሉት ትምህርቶች ለግምገማ የቀረቡ ናሙናዎች ናቸው።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ቤተ መጻሕፍቱን እንዴት ይጠቀሙ?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "በርዕስ ያስሱ ወይም በቁልፍ ቃልና በጥያቄ ይፈልጉ። በሚመችዎት ቋንቋ ያለ ትምህርት ለማግኘት የትምህርት ቋንቋ ማጣሪያውን ይጠቀሙ። ለበይነገጹ በገጹ አናት እንግሊዝኛን ወይም አማርኛን ይምረጡ፤ ይህ ትምህርቱን አይተረጉምም።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ርዕሶቻችንን ያስሱ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ከእኛ ጋር መማርዎን ይቀጥሉ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "am",
+      "width": 320,
+      "route": "/",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "15px",
+          "lineHeight": "21px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መነሻ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለ እኛ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "አስተያየት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "እምነትን ይወቁ። ግንዛቤዎን ያጥልቁ።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "በርዕስ ያስሱ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "የቅርብ ጊዜ ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "-0.936px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore what repentance means in the Orthodox Christian life and why it is central to our journey toward God.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Understanding the sacraments",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "-0.936px",
+          "weight": "600"
+        },
+        {
+          "text": "A clear introduction to the sacraments, their meaning, and their role in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Learning from the Church Fathers",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "20.8px",
+          "lineHeight": "24.96px",
+          "spacing": "-0.936px",
+          "weight": "600"
+        },
+        {
+          "text": "Discover how the teachings of the Church Fathers guide us in faith, life, and discernment today.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "የመማሪያና የማደጊያ ቦታ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "am",
+      "width": 320,
+      "route": "/teachings",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "15px",
+          "lineHeight": "21px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መነሻ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለ እኛ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "አስተያየት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "የትምህርቶች ቤተ መጻሕፍት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore what repentance means in the Orthodox Christian life and why it is central to our journey toward God.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Understanding the sacraments",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "A clear introduction to the sacraments, their meaning, and their role in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Learning from the Church Fathers",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Discover how the teachings of the Church Fathers guide us in faith, life, and discernment today.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ንስሐ ምንድን ነው?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "22px",
+          "lineHeight": "30.8px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ በኦርቶዶክስ ክርስቲያናዊ ሕይወት ምን ማለት እንደሆነና ወደ እግዚአብሔር በምናደርገው ጉዞ ያለውን አስፈላጊነት ይወቁ።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Faith and sacred tradition",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Explore the relationship between faith and sacred tradition in the life of the Church.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Preparing for confession",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "26.4px",
+          "lineHeight": "31.68px",
+          "spacing": "-1.188px",
+          "weight": "600"
+        },
+        {
+          "text": "Practical guidance on how to prepare for confession and approach this sacrament with a humble and sincere heart.",
+          "language": "en",
+          "font": "\"Noto Sans\", \"Noto Sans Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "am",
+      "width": 320,
+      "route": "/teachings/repentance-am",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "15px",
+          "lineHeight": "21px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መነሻ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለ እኛ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "አስተያየት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "በዚህ ገጽ ላይ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ ምንድን ነው?",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "30px",
+          "lineHeight": "42px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መግቢያ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ንስሐ ልብን ወደ እግዚአብሔር መመለስ ነው። ሕይወታችንን እንድንመረምር፣ ስህተታችንን እንድንቀበልና በጸጋው እንድንታደስ ይጋብዘናል።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "የንስሐ ሕይወት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ይህ የናሙና ትምህርት ጸሎት፣ ንስሐና የዕለት ተዕለት ምርጫዎች የንስሐ ሕይወትን እንዴት እንደሚቀርጹ ያስተዋውቃል።",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "29.75px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ማንበብዎን ይቀጥሉ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "600"
+        }
+      ]
+    },
+    {
+      "language": "am",
+      "width": 320,
+      "route": "/teachings/what-is-repentance",
+      "overflow": false,
+      "typography": [
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "15px",
+          "lineHeight": "21px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "መነሻ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ትምህርቶች",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "ስለ እኛ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "አስተያየት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "17px",
+          "lineHeight": "27.2px",
+          "spacing": "normal",
+          "weight": "500"
+        },
+        {
+          "text": "በዚህ ገጽ ላይ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "What is repentance?",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "34.4px",
+          "lineHeight": "41.28px",
+          "spacing": "-1.548px",
+          "weight": "600"
+        },
+        {
+          "text": "Introduction",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "27.2px",
+          "lineHeight": "32.64px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "Repentance is a turning of the heart toward God. It invites us to examine our lives, acknowledge our failings, and seek renewal through His grace.",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "18.4px",
+          "lineHeight": "30.36px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "Watch the teaching",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "27.2px",
+          "lineHeight": "32.64px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "A life of repentance",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "27.2px",
+          "lineHeight": "32.64px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "This sample teaching explores how prayer, confession, and daily choices can shape a life of repentance.",
+          "language": "en",
+          "font": "\"Noto Serif\", \"Noto Serif Fallback\", \"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", serif",
+          "size": "18.4px",
+          "lineHeight": "30.36px",
+          "spacing": "normal",
+          "weight": "400"
+        },
+        {
+          "text": "ማንበብዎን ይቀጥሉ",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "24px",
+          "lineHeight": "33.6px",
+          "spacing": "normal",
+          "weight": "600"
+        },
+        {
+          "text": "ኦርቶዶክሳዊ የእምነት መከላከያሥነ መለኮት",
+          "language": "am",
+          "font": "\"Noto Sans Ethiopic\", \"Noto Sans Ethiopic Fallback\", sans-serif",
+          "size": "16px",
+          "lineHeight": "22.4px",
+          "spacing": "normal",
+          "weight": "600"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

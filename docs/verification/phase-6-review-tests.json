@@ -1,0 +1,470 @@
+{
+  "date": "2026-10-19",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "Signed-out genuine empty Home/Library and missing article before isolated publication",
+      "status": "passed"
+    },
+    {
+      "name": "Owner signs in, creates teaching, saves/reloads draft, previews and publishes English",
+      "status": "passed"
+    },
+    {
+      "name": "Signed-out visitor finds published English through Library and opens article",
+      "status": "passed"
+    },
+    {
+      "name": "Field-specific errors in inactive language tab focus the field and clear on correction",
+      "status": "passed"
+    },
+    {
+      "name": "Publishing second language keeps one card and adds working article switching",
+      "status": "passed"
+    },
+    {
+      "name": "Unpublishing Amharic removes direct access/switch; review fixture can be republished",
+      "status": "passed"
+    },
+    {
+      "name": "Visitor submits feedback; owner sees unread, marks read and status survives refresh",
+      "status": "passed"
+    },
+    {
+      "name": "Styled section/paragraph dialogs: initial Cancel, focus trap, Escape, selective removal, Amharic mobile fit",
+      "status": "passed"
+    },
+    {
+      "name": "Public/admin desktop-mobile English-Amharic matrix, focus, navigation and internal links",
+      "status": "passed"
+    },
+    {
+      "name": "Empty filtered admin list and inbox Unread state",
+      "status": "passed"
+    },
+    {
+      "name": "YouTube actual playback on temporary verification video",
+      "status": "untested",
+      "reason": "Single playback attempt could not confirm advancing media; controlled embed URL passed. No approved published client video exists."
+    }
+  ],
+  "matrix": [
+    {
+      "kind": "public",
+      "route": "/",
+      "width": 1440,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/teachings",
+      "width": 1440,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/teachings/[test-slug]",
+      "width": 1440,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/about",
+      "width": 1440,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/feedback",
+      "width": 1440,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/",
+      "width": 1440,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/teachings",
+      "width": 1440,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/teachings/[test-slug]",
+      "width": 1440,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/about",
+      "width": 1440,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/feedback",
+      "width": 1440,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/",
+      "width": 390,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/teachings",
+      "width": 390,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/teachings/[test-slug]",
+      "width": 390,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/about",
+      "width": 390,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/feedback",
+      "width": 390,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/",
+      "width": 390,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/teachings",
+      "width": 390,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/teachings/[test-slug]",
+      "width": 390,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/about",
+      "width": 390,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "public",
+      "route": "/feedback",
+      "width": 390,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin",
+      "width": 1440,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/teachings",
+      "width": 1440,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/teachings/[test-id]",
+      "width": 1440,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/teachings/[test-id]/preview?language=en",
+      "width": 1440,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/feedback",
+      "width": 1440,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin",
+      "width": 1440,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/teachings",
+      "width": 1440,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/teachings/[test-id]",
+      "width": 1440,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/teachings/[test-id]/preview?language=en",
+      "width": 1440,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/feedback",
+      "width": 1440,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin",
+      "width": 390,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/teachings",
+      "width": 390,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/teachings/[test-id]",
+      "width": 390,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/teachings/[test-id]/preview?language=en",
+      "width": 390,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/feedback",
+      "width": 390,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin",
+      "width": 390,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/teachings",
+      "width": 390,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/teachings/[test-id]",
+      "width": 390,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/teachings/[test-id]/preview?language=en",
+      "width": 390,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "admin",
+      "route": "/admin/feedback",
+      "width": 390,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "login",
+      "route": "/admin/login",
+      "width": 1440,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "login",
+      "route": "/admin/login",
+      "width": 1440,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "login",
+      "route": "/admin/login",
+      "width": 390,
+      "language": "en",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "kind": "login",
+      "route": "/admin/login",
+      "width": 390,
+      "language": "am",
+      "status": "passed",
+      "overflow": false,
+      "offenders": []
+    }
+  ],
+  "findings": [
+    {
+      "kind": "external-link",
+      "target": "https://t.me/orthodox_chrstianity",
+      "status": "passed",
+      "http": 200
+    }
+  ],
+  "internalLinksChecked": 18,
+  "nativeConfirms": 0,
+  "cleanup": [
+    {
+      "item": "only exact isolated teaching/feedback IDs removed; pre-existing records unchanged",
+      "status": "passed"
+    },
+    {
+      "item": "temporary owner removed; permanent owners preserved",
+      "status": "passed"
+    }
+  ]
+}

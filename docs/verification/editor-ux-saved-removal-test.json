@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-16",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "Saved teaching removal marks unsaved changes, restores add-section focus and does not write before Save",
+      "status": "passed"
+    }
+  ],
+  "cleanup": [
+    {
+      "item": "exact duplicate-slug fixture",
+      "status": "passed"
+    },
+    {
+      "item": "run-marked temporary owner",
+      "status": "passed"
+    },
+    {
+      "item": "permanent owner and existing teachings preserved",
+      "status": "passed"
+    }
+  ],
+  "fullPhase4BSuite": "Not repeated",
+  "screenshots": "One temporary mobile dialog capture for visual inspection; no large screenshot set"
+}

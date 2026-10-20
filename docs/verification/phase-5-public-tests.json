@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-16",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "Anonymous and owner public responses hide drafts and draft translation availability",
+      "status": "passed"
+    },
+    {
+      "name": "One card per teaching; explicit language wins, interface preference and fallback label",
+      "status": "passed"
+    },
+    {
+      "name": "Two published versions switch by slug; filtered return links, related cards and shared video renderer",
+      "status": "passed"
+    },
+    {
+      "name": "Combined search/topic/language, Load more, URL state and Back/Forward",
+      "status": "passed"
+    },
+    {
+      "name": "Publish, published edit and unpublish reflected on subsequent public requests",
+      "status": "passed"
+    },
+    {
+      "name": "True empty and database-error states stay distinct from missing articles; bilingual mobile fit",
+      "status": "passed"
+    }
+  ],
+  "cleanup": [
+    {
+      "item": "only exact isolated teaching IDs deleted",
+      "status": "passed"
+    },
+    {
+      "item": "existing owner content and memberships unchanged; temporary owner removed",
+      "status": "passed"
+    }
+  ]
+}

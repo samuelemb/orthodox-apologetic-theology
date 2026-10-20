@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-19",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "inspected",
+  "pending": [],
+  "unexpectedRemote": [],
+  "migrationVersions": [
+    "20261010000100",
+    "20261010000200",
+    "20261014000100",
+    "20261014000200",
+    "20261014000300",
+    "20261016000100"
+  ],
+  "counts": [
+    {
+      "feedback": 0,
+      "published_versions": 0,
+      "published_video_versions": 0,
+      "teachings": 1
+    }
+  ],
+  "configuration": {
+    "publicUrl": true,
+    "publishableKey": true,
+    "serverOnlyKey": true,
+    "trustedOriginsConfigured": true,
+    "publicSignupsDisabled": true
+  }
+}

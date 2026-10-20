@@ -1,0 +1,4 @@
+export const feedbackSubmitCopy={
+ en:{submit:'Send feedback',pending:'Sending…',success:'Thank you. Your feedback has been received.',rate:'Too many messages have been sent recently. Please wait 10 minutes and try again.',failure:'Your feedback could not be confirmed. Your text is still here. Please try again later.',size:'Your request is too large. Shorten the message or email address and try again.',privacy:'Your message is sent privately to the website owner.',honeypot:'Leave this field empty'},
+ am:{submit:'አስተያየት ላክ',pending:'በመላክ ላይ…',success:'እናመሰግናለን። አስተያየትዎ ደርሷል።',rate:'በቅርቡ ብዙ መልእክቶች ተልከዋል። 10 ደቂቃ ጠብቀው እንደገና ይሞክሩ።',failure:'መላኩን ማረጋገጥ አልተቻለም። ጽሑፍዎ እዚህ አለ። ቆይተው እንደገና ይሞክሩ።',size:'የተላከው መረጃ በጣም ትልቅ ነው። መልእክቱን ወይም ኢሜይሉን ያሳጥሩና እንደገና ይሞክሩ።',privacy:'መልእክትዎ ለድረ ገጹ ባለቤት በግል ይላካል።',honeypot:'ይህን ቦታ ባዶ ይተዉ'}
+};

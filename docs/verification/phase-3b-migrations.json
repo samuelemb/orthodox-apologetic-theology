@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-13",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "passed",
+  "previewed": [
+    "20261010000100_content_validation.sql",
+    "20261010000200_schema_and_rls.sql"
+  ],
+  "applied": [
+    "20261010000100",
+    "20261010000200"
+  ],
+  "remoteHistoryVerified": true,
+  "pendingMigrations": [],
+  "clientSampleSeedApplied": false,
+  "remoteReset": false,
+  "vaultChanges": false,
+  "migrationHistoryRepaired": false
+}

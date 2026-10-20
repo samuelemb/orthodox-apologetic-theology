@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-13",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "passed",
+  "changes": [
+    {
+      "path": [
+        "auth",
+        "enable_signup"
+      ],
+      "class": "update",
+      "declared": true,
+      "local": false,
+      "remote": true
+    }
+  ]
+}

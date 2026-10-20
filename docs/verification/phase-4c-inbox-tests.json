@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-16",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "Owner list ordering, pagination, detail, optional email and plain text rendering",
+      "status": "passed"
+    },
+    {
+      "name": "Read and unread updates persist after refresh; Unread filter excludes read records",
+      "status": "passed"
+    },
+    {
+      "name": "Private headers, mutation validation, origin checks and missing records",
+      "status": "passed"
+    },
+    {
+      "name": "Anonymous and signed-in non-owner cannot read or mutate through handlers or RLS",
+      "status": "passed"
+    },
+    {
+      "name": "Loading, empty and failure states; failed mutation leaves saved status unchanged",
+      "status": "passed"
+    },
+    {
+      "name": "English and Amharic keyboard interaction and mobile fit",
+      "status": "passed"
+    }
+  ],
+  "cleanup": [
+    {
+      "item": "only exact temporary feedback IDs removed",
+      "status": "passed"
+    },
+    {
+      "item": "existing feedback and permanent owners preserved; temporary accounts removed",
+      "status": "passed"
+    }
+  ]
+}

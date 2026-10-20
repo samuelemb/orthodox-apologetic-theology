@@ -1,0 +1,6 @@
+{
+  "date": "2026-10-14",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "preview": "{\"upToDate\":false,\"dryRun\":true,\"migrations\":[\"20261014000200_editor_conflict_response.sql\"],\"seeds\":[],\"roles\":[],\"message\":\"Finished supabase db push.\"}",
+  "applied": "{\"upToDate\":false,\"dryRun\":false,\"migrations\":[\"20261014000200_editor_conflict_response.sql\"],\"seeds\":[],\"roles\":[],\"message\":\"Finished supabase db push.\"}"
+}

@@ -1,0 +1,48 @@
+node_modules/
+.next/
+.vercel/
+out/
+dist/
+build/
+*.tsbuildinfo
+.env*
+!.env.example
+npm-debug.log*
+*.log
+next-env.d.ts
+
+# Supabase CLI local state / linked project references
+supabase/.temp/
+supabase/.branches/
+
+# Portable CLI, encrypted local credentials and temporary hosted-test manifests
+.tools/
+
+# Browser test recordings/state can contain sessions or submitted private data.
+/test-results/
+/playwright-report/
+/blob-report/
+/coverage/
+**/storage-state*.json
+**/storageState*.json
+**/auth-state*.json
+**/cookies*.json
+**/session-state*.json
+
+# Keep database exports, recovery material and private keys out of source control.
+/backups/
+/exports/
+/dumps/
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.kdbx
+.pgpass
+pgpass.conf
+id_rsa
+id_ed25519
+credentials*.json
+service-account*.json

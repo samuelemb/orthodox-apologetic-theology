@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-14",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "counts": [
+    {
+      "owners": 1,
+      "teachings": 0,
+      "users": 1,
+      "versions": 0
+    }
+  ],
+  "preview": "{\"upToDate\":false,\"dryRun\":true,\"migrations\":[\"20261014000100_atomic_teaching_editor.sql\"],\"seeds\":[],\"roles\":[],\"message\":\"Finished supabase db push.\"}"
+}

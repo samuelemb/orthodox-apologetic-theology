@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-14",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "Real empty/list state and create/reload English draft through UI",
+      "status": "passed"
+    },
+    {
+      "name": "Add Amharic under same ID; switching content/UI languages preserves text",
+      "status": "passed"
+    },
+    {
+      "name": "Duplicate slug has actionable UI error and rolls back all tab changes",
+      "status": "passed"
+    },
+    {
+      "name": "Section add/edit/reorder/remove and stable slug during title edits",
+      "status": "passed"
+    },
+    {
+      "name": "Drafts absent from public database access; independent publish/unpublish for both languages",
+      "status": "passed"
+    },
+    {
+      "name": "Owner inline/saved preview reuses article body; desktop/mobile bilingual screenshots and keyboard",
+      "status": "passed"
+    },
+    {
+      "name": "Failed save retains input and safely retries; native navigation and Back warn/cancel",
+      "status": "passed"
+    },
+    {
+      "name": "Amharic-only teaching, atomic rollback on duplicate slug and invalid second version",
+      "status": "passed"
+    },
+    {
+      "name": "Idempotent committed retry and stale edit conflict do not duplicate/overwrite",
+      "status": "passed"
+    },
+    {
+      "name": "Server action validates video input; controlled embed and server field rejection",
+      "status": "passed"
+    },
+    {
+      "name": "Grouped real list/search, per-language statuses and bilingual responsive screenshots",
+      "status": "passed"
+    },
+    {
+      "name": "Anonymous/non-owner protected reads, RPC mutations and replayed server action denied",
+      "status": "passed"
+    }
+  ],
+  "cleanup": [
+    {
+      "item": "isolated teaching cascade",
+      "status": "passed"
+    },
+    {
+      "item": "owner temporary identity",
+      "status": "passed"
+    },
+    {
+      "item": "nonowner temporary identity",
+      "status": "passed"
+    },
+    {
+      "item": "existing records and permanent owners unchanged; zero temporary accounts",
+      "status": "passed"
+    }
+  ],
+  "browser": "Desktop Chrome with 1536,390,320 viewport emulation; English/Amharic",
+  "existingTeachingCount": 0,
+  "existingVersionCount": 0,
+  "execution": "Checks completed across full and focused runs. The original video failure and cleanup are preserved in phase-4b-editor-before-video-fix.json; the fixed video/security/list checks are in phase-4b-editor-remaining-tests.json."
+}

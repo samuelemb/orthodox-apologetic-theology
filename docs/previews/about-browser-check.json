@@ -1,0 +1,485 @@
+{
+  "layouts": [
+    {
+      "language": "en",
+      "width": 1536,
+      "scrollWidth": 1536,
+      "title": "About this teaching library",
+      "logo": {
+        "x": 1134,
+        "y": 169,
+        "width": 260,
+        "height": 260,
+        "top": 169,
+        "right": 1394,
+        "bottom": 429,
+        "left": 1134
+      },
+      "naturalWidth": 260,
+      "naturalHeight": 260
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "About this teaching library",
+      "logo": {
+        "x": 105,
+        "y": 413.40625,
+        "width": 180,
+        "height": 180,
+        "top": 413.40625,
+        "right": 285,
+        "bottom": 593.40625,
+        "left": 105
+      },
+      "naturalWidth": 179,
+      "naturalHeight": 179
+    },
+    {
+      "language": "en",
+      "width": 320,
+      "scrollWidth": 320,
+      "title": "About this teaching library",
+      "logo": {
+        "x": 70,
+        "y": 413.40625,
+        "width": 180,
+        "height": 180,
+        "top": 413.40625,
+        "right": 250,
+        "bottom": 593.40625,
+        "left": 70
+      },
+      "naturalWidth": 179,
+      "naturalHeight": 179
+    },
+    {
+      "language": "en",
+      "width": 768,
+      "scrollWidth": 768,
+      "title": "About this teaching library",
+      "logo": {
+        "x": 294,
+        "y": 366.40625,
+        "width": 180,
+        "height": 180,
+        "top": 366.40625,
+        "right": 474,
+        "bottom": 546.40625,
+        "left": 294
+      },
+      "naturalWidth": 179,
+      "naturalHeight": 179
+    },
+    {
+      "language": "am",
+      "width": 1536,
+      "scrollWidth": 1536,
+      "title": "ስለዚህ የትምህርት ቤተ መጻሕፍት",
+      "logo": {
+        "x": 1134,
+        "y": 171.375,
+        "width": 260,
+        "height": 260,
+        "top": 171.375,
+        "right": 1394,
+        "bottom": 431.375,
+        "left": 1134
+      },
+      "naturalWidth": 260,
+      "naturalHeight": 260
+    },
+    {
+      "language": "am",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "ስለዚህ የትምህርት ቤተ መጻሕፍት",
+      "logo": {
+        "x": 105,
+        "y": 438.0625,
+        "width": 180,
+        "height": 180,
+        "top": 438.0625,
+        "right": 285,
+        "bottom": 618.0625,
+        "left": 105
+      },
+      "naturalWidth": 179,
+      "naturalHeight": 179
+    },
+    {
+      "language": "am",
+      "width": 320,
+      "scrollWidth": 320,
+      "title": "ስለዚህ የትምህርት ቤተ መጻሕፍት",
+      "logo": {
+        "x": 70,
+        "y": 454.453125,
+        "width": 180,
+        "height": 180,
+        "top": 454.453125,
+        "right": 250,
+        "bottom": 634.453125,
+        "left": 70
+      },
+      "naturalWidth": 179,
+      "naturalHeight": 179
+    },
+    {
+      "language": "am",
+      "width": 768,
+      "scrollWidth": 768,
+      "title": "ስለዚህ የትምህርት ቤተ መጻሕፍት",
+      "logo": {
+        "x": 294,
+        "y": 381.140625,
+        "width": 180,
+        "height": 180,
+        "top": 381.140625,
+        "right": 474,
+        "bottom": 561.140625,
+        "left": 294
+      },
+      "naturalWidth": 179,
+      "naturalHeight": 179
+    }
+  ],
+  "topics": [
+    {
+      "language": "en",
+      "topic": "repentance",
+      "count": 4,
+      "url": "http://127.0.0.1:3002/teachings?topic=repentance"
+    },
+    {
+      "language": "en",
+      "topic": "sacraments",
+      "count": 4,
+      "url": "http://127.0.0.1:3002/teachings?topic=sacraments"
+    },
+    {
+      "language": "en",
+      "topic": "fathers",
+      "count": 2,
+      "url": "http://127.0.0.1:3002/teachings?topic=fathers"
+    },
+    {
+      "language": "en",
+      "topic": "apologetics",
+      "count": 2,
+      "url": "http://127.0.0.1:3002/teachings?topic=apologetics"
+    },
+    {
+      "language": "am",
+      "topic": "repentance",
+      "count": 4,
+      "url": "http://127.0.0.1:3002/teachings?topic=repentance"
+    },
+    {
+      "language": "am",
+      "topic": "sacraments",
+      "count": 4,
+      "url": "http://127.0.0.1:3002/teachings?topic=sacraments"
+    },
+    {
+      "language": "am",
+      "topic": "fathers",
+      "count": 2,
+      "url": "http://127.0.0.1:3002/teachings?topic=fathers"
+    },
+    {
+      "language": "am",
+      "topic": "apologetics",
+      "count": 2,
+      "url": "http://127.0.0.1:3002/teachings?topic=apologetics"
+    }
+  ],
+  "keyboard": [
+    {
+      "width": 1536,
+      "seen": [
+        {
+          "text": "Home",
+          "href": "/",
+          "outline": "solid"
+        },
+        {
+          "text": "Repentance→",
+          "href": "/teachings?topic=repentance",
+          "outline": "solid"
+        },
+        {
+          "text": "Sacraments→",
+          "href": "/teachings?topic=sacraments",
+          "outline": "solid"
+        },
+        {
+          "text": "Church Fathers→",
+          "href": "/teachings?topic=fathers",
+          "outline": "solid"
+        },
+        {
+          "text": "Apologetics→",
+          "href": "/teachings?topic=apologetics",
+          "outline": "solid"
+        },
+        {
+          "text": "Browse teachings→",
+          "href": "/teachings",
+          "outline": "solid"
+        },
+        {
+          "text": "Join our Telegram channel↗",
+          "href": "https://t.me/orthodox_chrstianity",
+          "outline": "solid"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "href": "/",
+          "outline": "solid"
+        },
+        {
+          "text": "Teachings",
+          "href": "/teachings",
+          "outline": "solid"
+        },
+        {
+          "text": "About",
+          "href": "/about",
+          "outline": "solid"
+        },
+        {
+          "text": "Feedback",
+          "href": "/feedback",
+          "outline": "solid"
+        },
+        {
+          "text": "Join us on Telegram ↗",
+          "href": "https://t.me/orthodox_chrstianity",
+          "outline": "solid"
+        },
+        {
+          "text": "Skip to contentOrthodox ApologeticTheologyHomeTeachingsAboutFeedbackEN|አማርኛHome/AboutOur purposeAbout this teaching libraryA place to explore Orthodox teaching with clarity and care.Why this website existsTeachings can be difficult to find in a busy channel. This new library is being prepared for the owner to publish Orthodox teachings organized by topic, making it easier to discover a teaching, return to it, and continue learning.What you will findThe library will offer teachings on repentance, the sacraments, the Church Fathers, and apologetics: questions about the Orthodox faith. Teachings will be available in Amharic or English, with videos alongside selected articles. The current teachings are samples for review.How to use the libraryBrowse a topic or search by keyword or question. Use the teaching language filter to find material you can read comfortably. Choose English or Amharic in the header for the interface; this does not translate the teaching itself.Explore our topicsRepentance→Sacraments→Church Fathers→Apologetics→Continue learning with usExplore the teachings, ask deeper questions, and grow in your understanding.Browse teachings→Join our Telegram channel↗Orthodox ApologeticTheologyTeachingsAboutFeedbackJoin us on Telegram ↗(globalThis[\"TURBOPACK\"] || (globalThis[\"TURBOPACK\"] = [])).push({\"otherChunks\":[\"static/chunks/1ckvzn7sfprko.js\",\"static/chunks/2r4s4h5xul1n-.js\",\"static/chunks/0s7mvllxht1mo.js\",\"static/chunks/0rm4bmi_uaeqm.js\"],\"runtimeModuleIds\":[94553]});(self.__next_f=self.__next_f||[]).push([0])self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:\\\"/_next/static/chunks/38rmr1ttqc1k-.js\\\"\\n3:\\\"LanguageProvider\\\"\\n4:I[86150,[\\\"$2\\\"],\\\"$3\\\"]\\n5:I[39756,[\\\"$2\\\"],\\\"default\\\"]\\n6:I[37457,[\\\"$2\\\"],\\\"default\\\"]\\n8:\\\"/_next/static/chunks/2hgumke-decl-.js\\\"\\n9:I[51089,[\\\"$2\\\",\\\"$8\\\"],\\\"SkipLink\\\"]\\na:I[3020,[\\\"$2\\\",\\\"$8\\\"],\\\"SiteHeader\\\"]\\nb:I[58068,[\\\"$2\\\",\\\"$8\\\"],\\\"SiteFooter\\\"]\\nf:\\\"/_next/static/chunks/11cwcey68cizo.js\\\"\\n10:\\\"AboutPageContent\\\"\\n11:I[36796,[\\\"$2\\\",\\\"$8\\\",\\\"$f\\\"],\\\"$10\\\"]\\n12:I[97367,[\\\"$2\\\"],\\\"OutletBoundary\\\"]\\n13:\\\"$Sreact.suspense\\\"\\n15:\\\"ViewportBoundary\\\"\\n16:I[97367,[\\\"$2\\\"],\\\"$15\\\"]\\n18:\\\"MetadataBoundary\\\"\\n19:I[97367,[\\\"$2\\\"],\\\"$18\\\"]\\n1b:I[68027,[\\\"$2\\\"],\\\"default\\\",1]\\n:HL[\\\"/_next/static/chunks/3-s8m7koo-lw9.css\\\",\\\"style\\\"]\\n:HL[\\\"/_next/static/media/276ff8de80749a43-s.p.29e-66-z_wi5x.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/media/b4e85636e2ca4056-s.p.11bvk_b9f2jcg.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/media/dc6d2a64e9dbf3bc-s.p.3mjzw95c0-_52.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\nd:X\\ne:[[\\\"children\\\",{\\\"s\\\":\\\"__PAGE__\\\",\\\"h\\\":512,\\\"d\\\":{\\\"r\\\":[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[\\\"$\\\",\\\"$L11\\\",null,{}],[[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/11cwcey68cizo.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"$L12\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$13\\\",null,{\\\"name\\\":\\\"Next.MetadataOutlet\\\",\\\"children\\\":\\\"$@14\\\"}]}]]}],\\\"p\\\":false,\\\"v\\\":null}}]]\\nc:[[\\\"children\\\",{\\\"s\\\":\\\"about\\\",\\\"h\\\":512,\\\"d\\\":{\\\"r\\\":[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$L5\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L6\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":\\\"$undefined\\\",\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]]}],\\\"p\\\":false,\\\"v\\\":\\\"$d\\\"},\\\"c\\\":\\\"$Qe\\\"}]]\\n7:[[\\\"children\\\",{\\\"s\\\":\\\"(public)\\\",\\\"h\\\":512,\\\"d\\\":{\\\"r\\\":[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/2hgumke-decl-.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"div\\\",null,{\\\"className\\\":\\\"public-shell\\\",\\\"children\\\":[[\\\"$\\\",\\\"$L9\\\",null,{}],[\\\"$\\\",\\\"$La\\\",null,{}],[\\\"$\\\",\\\"main\\\",null,{\\\"id\\\":\\\"main-content\\\",\\\"tabIndex\\\":-1,\\\"children\\\":[\\\"$\\\",\\\"$L5\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L6\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":\\\"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:props:notFound:0:1:props:style\\\",\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":\\\"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style\\\",\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":\\\"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style\\\",\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":\\\"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style\\\",\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]}],[\\\"$\\\",\\\"$Lb\\\",null,{}]]}]]}],\\\"p\\\":false,\\\"v\\\":null},\\\"c\\\":\\\"$Qc\\\"}]]\\n0:{\\\"P\\\":null,\\\"c\\\":[\\\"\\\",\\\"about\\\"],\\\"q\\\":\\\"\\\",\\\"i\\\":false,\\\"t\\\":{\\\"t\\\":{\\\"s\\\":\\\"\\\",\\\"h\\\":528,\\\"d\\\":{\\\"r\\\":[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/chunks/3-s8m7koo-lw9.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/38rmr1ttqc1k-.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"className\\\":\\\"xFWoUq_variable Kjt_xq_variable _2wZFGW_variable\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L4\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L5\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L6\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]}]}]}]]}],\\\"p\\\":false,\\\"v\\\":null},\\\"c\\\":\\\"$Q7\\\"},\\\"h\\\":{\\\"r\\\":[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$L16\\\",null,{\\\"children\\\":\\\"$L17\\\"}],[\\\"$\\\",\\\"$L19\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$13\\\",null,{\\\"name\\\":\\\"Next.Metadata\\\",\\\"children\\\":\\\"$L1a\\\"}]}],null]}],[\\\"$\\\",\\\"meta\\\",null,{\\\"name\\\":\\\"next-size-adjust\\\",\\\"content\\\":\\\"\\\"}]]}],\\\"p\\\":false,\\\"v\\\":null}},\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$1b\\\",[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/chunks/3-s8m7koo-lw9.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]]],\\\"S\\\":true,\\\"r\\\":\\\"$undefined\\\",\\\"s\\\":\\\"$undefined\\\",\\\"a\\\":\\\"$undefined\\\",\\\"l\\\":\\\"$undefined\\\",\\\"p\\\":\\\"$undefined\\\",\\\"d\\\":\\\"$undefined\\\",\\\"b\\\":\\\"0CZxMrKysmCiGo3GdJ8cq\\\"}\\nd:C\\n17:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}]]\\n1c:I[27201,[\\\"$2\\\"],\\\"IconMark\\\"]\\n14:null\\n1a:[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"About | Orthodox Apologetic Theology\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"An Orthodox teaching library about repentance, the sacraments, the Church Fathers, and apologetics.\\\"}],[\\\"$\\\",\\\"link\\\",\\\"2\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/images/logo.jpg\\\"}],[\\\"$\\\",\\\"$L1c\\\",\\\"3\\\",{}]]\\n\"])",
+          "href": null,
+          "outline": "none"
+        },
+        {
+          "text": "Skip to content",
+          "href": "#main-content",
+          "outline": "solid"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "href": "/",
+          "outline": "solid"
+        },
+        {
+          "text": "Home",
+          "href": "/",
+          "outline": "solid"
+        },
+        {
+          "text": "Teachings",
+          "href": "/teachings",
+          "outline": "solid"
+        },
+        {
+          "text": "About",
+          "href": "/about",
+          "outline": "solid"
+        },
+        {
+          "text": "Feedback",
+          "href": "/feedback",
+          "outline": "solid"
+        },
+        {
+          "text": "EN",
+          "href": null,
+          "outline": "solid"
+        },
+        {
+          "text": "አማርኛ",
+          "href": null,
+          "outline": "solid"
+        },
+        {
+          "text": "Home",
+          "href": "/",
+          "outline": "solid"
+        },
+        {
+          "text": "Repentance→",
+          "href": "/teachings?topic=repentance",
+          "outline": "solid"
+        },
+        {
+          "text": "Sacraments→",
+          "href": "/teachings?topic=sacraments",
+          "outline": "solid"
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "seen": [
+        {
+          "text": "Home",
+          "href": "/",
+          "outline": "solid"
+        },
+        {
+          "text": "Repentance→",
+          "href": "/teachings?topic=repentance",
+          "outline": "solid"
+        },
+        {
+          "text": "Sacraments→",
+          "href": "/teachings?topic=sacraments",
+          "outline": "solid"
+        },
+        {
+          "text": "Church Fathers→",
+          "href": "/teachings?topic=fathers",
+          "outline": "solid"
+        },
+        {
+          "text": "Apologetics→",
+          "href": "/teachings?topic=apologetics",
+          "outline": "solid"
+        },
+        {
+          "text": "Browse teachings→",
+          "href": "/teachings",
+          "outline": "solid"
+        },
+        {
+          "text": "Join our Telegram channel↗",
+          "href": "https://t.me/orthodox_chrstianity",
+          "outline": "solid"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "href": "/",
+          "outline": "solid"
+        },
+        {
+          "text": "Teachings",
+          "href": "/teachings",
+          "outline": "solid"
+        },
+        {
+          "text": "About",
+          "href": "/about",
+          "outline": "solid"
+        },
+        {
+          "text": "Feedback",
+          "href": "/feedback",
+          "outline": "solid"
+        },
+        {
+          "text": "Join us on Telegram ↗",
+          "href": "https://t.me/orthodox_chrstianity",
+          "outline": "solid"
+        },
+        {
+          "text": "Skip to contentOrthodox ApologeticTheologyHomeTeachingsAboutFeedbackEN|አማርኛHome/AboutOur purposeAbout this teaching libraryA place to explore Orthodox teaching with clarity and care.Why this website existsTeachings can be difficult to find in a busy channel. This new library is being prepared for the owner to publish Orthodox teachings organized by topic, making it easier to discover a teaching, return to it, and continue learning.What you will findThe library will offer teachings on repentance, the sacraments, the Church Fathers, and apologetics: questions about the Orthodox faith. Teachings will be available in Amharic or English, with videos alongside selected articles. The current teachings are samples for review.How to use the libraryBrowse a topic or search by keyword or question. Use the teaching language filter to find material you can read comfortably. Choose English or Amharic in the header for the interface; this does not translate the teaching itself.Explore our topicsRepentance→Sacraments→Church Fathers→Apologetics→Continue learning with usExplore the teachings, ask deeper questions, and grow in your understanding.Browse teachings→Join our Telegram channel↗Orthodox ApologeticTheologyTeachingsAboutFeedbackJoin us on Telegram ↗(globalThis[\"TURBOPACK\"] || (globalThis[\"TURBOPACK\"] = [])).push({\"otherChunks\":[\"static/chunks/1ckvzn7sfprko.js\",\"static/chunks/2r4s4h5xul1n-.js\",\"static/chunks/0s7mvllxht1mo.js\",\"static/chunks/0rm4bmi_uaeqm.js\"],\"runtimeModuleIds\":[94553]});(self.__next_f=self.__next_f||[]).push([0])self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:\\\"/_next/static/chunks/38rmr1ttqc1k-.js\\\"\\n3:\\\"LanguageProvider\\\"\\n4:I[86150,[\\\"$2\\\"],\\\"$3\\\"]\\n5:I[39756,[\\\"$2\\\"],\\\"default\\\"]\\n6:I[37457,[\\\"$2\\\"],\\\"default\\\"]\\n8:\\\"/_next/static/chunks/2hgumke-decl-.js\\\"\\n9:I[51089,[\\\"$2\\\",\\\"$8\\\"],\\\"SkipLink\\\"]\\na:I[3020,[\\\"$2\\\",\\\"$8\\\"],\\\"SiteHeader\\\"]\\nb:I[58068,[\\\"$2\\\",\\\"$8\\\"],\\\"SiteFooter\\\"]\\nf:\\\"/_next/static/chunks/11cwcey68cizo.js\\\"\\n10:\\\"AboutPageContent\\\"\\n11:I[36796,[\\\"$2\\\",\\\"$8\\\",\\\"$f\\\"],\\\"$10\\\"]\\n12:I[97367,[\\\"$2\\\"],\\\"OutletBoundary\\\"]\\n13:\\\"$Sreact.suspense\\\"\\n15:\\\"ViewportBoundary\\\"\\n16:I[97367,[\\\"$2\\\"],\\\"$15\\\"]\\n18:\\\"MetadataBoundary\\\"\\n19:I[97367,[\\\"$2\\\"],\\\"$18\\\"]\\n1b:I[68027,[\\\"$2\\\"],\\\"default\\\",1]\\n:HL[\\\"/_next/static/chunks/3-s8m7koo-lw9.css\\\",\\\"style\\\"]\\n:HL[\\\"/_next/static/media/276ff8de80749a43-s.p.29e-66-z_wi5x.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/media/b4e85636e2ca4056-s.p.11bvk_b9f2jcg.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/media/dc6d2a64e9dbf3bc-s.p.3mjzw95c0-_52.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\nd:X\\ne:[[\\\"children\\\",{\\\"s\\\":\\\"__PAGE__\\\",\\\"h\\\":512,\\\"d\\\":{\\\"r\\\":[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[\\\"$\\\",\\\"$L11\\\",null,{}],[[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/11cwcey68cizo.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"$L12\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$13\\\",null,{\\\"name\\\":\\\"Next.MetadataOutlet\\\",\\\"children\\\":\\\"$@14\\\"}]}]]}],\\\"p\\\":false,\\\"v\\\":null}}]]\\nc:[[\\\"children\\\",{\\\"s\\\":\\\"about\\\",\\\"h\\\":512,\\\"d\\\":{\\\"r\\\":[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$L5\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L6\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":\\\"$undefined\\\",\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]]}],\\\"p\\\":false,\\\"v\\\":\\\"$d\\\"},\\\"c\\\":\\\"$Qe\\\"}]]\\n7:[[\\\"children\\\",{\\\"s\\\":\\\"(public)\\\",\\\"h\\\":512,\\\"d\\\":{\\\"r\\\":[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/2hgumke-decl-.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"div\\\",null,{\\\"className\\\":\\\"public-shell\\\",\\\"children\\\":[[\\\"$\\\",\\\"$L9\\\",null,{}],[\\\"$\\\",\\\"$La\\\",null,{}],[\\\"$\\\",\\\"main\\\",null,{\\\"id\\\":\\\"main-content\\\",\\\"tabIndex\\\":-1,\\\"children\\\":[\\\"$\\\",\\\"$L5\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L6\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":\\\"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:props:notFound:0:1:props:style\\\",\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":\\\"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style\\\",\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":\\\"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style\\\",\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":\\\"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style\\\",\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]}],[\\\"$\\\",\\\"$Lb\\\",null,{}]]}]]}],\\\"p\\\":false,\\\"v\\\":null},\\\"c\\\":\\\"$Qc\\\"}]]\\n0:{\\\"P\\\":null,\\\"c\\\":[\\\"\\\",\\\"about\\\"],\\\"q\\\":\\\"\\\",\\\"i\\\":false,\\\"t\\\":{\\\"t\\\":{\\\"s\\\":\\\"\\\",\\\"h\\\":528,\\\"d\\\":{\\\"r\\\":[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/chunks/3-s8m7koo-lw9.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/38rmr1ttqc1k-.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"className\\\":\\\"xFWoUq_variable Kjt_xq_variable _2wZFGW_variable\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L4\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L5\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L6\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]}]}]}]]}],\\\"p\\\":false,\\\"v\\\":null},\\\"c\\\":\\\"$Q7\\\"},\\\"h\\\":{\\\"r\\\":[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$L16\\\",null,{\\\"children\\\":\\\"$L17\\\"}],[\\\"$\\\",\\\"$L19\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$13\\\",null,{\\\"name\\\":\\\"Next.Metadata\\\",\\\"children\\\":\\\"$L1a\\\"}]}],null]}],[\\\"$\\\",\\\"meta\\\",null,{\\\"name\\\":\\\"next-size-adjust\\\",\\\"content\\\":\\\"\\\"}]]}],\\\"p\\\":false,\\\"v\\\":null}},\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$1b\\\",[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/chunks/3-s8m7koo-lw9.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]]],\\\"S\\\":true,\\\"r\\\":\\\"$undefined\\\",\\\"s\\\":\\\"$undefined\\\",\\\"a\\\":\\\"$undefined\\\",\\\"l\\\":\\\"$undefined\\\",\\\"p\\\":\\\"$undefined\\\",\\\"d\\\":\\\"$undefined\\\",\\\"b\\\":\\\"0CZxMrKysmCiGo3GdJ8cq\\\"}\\nd:C\\n17:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}]]\\n1c:I[27201,[\\\"$2\\\"],\\\"IconMark\\\"]\\n14:null\\n1a:[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"About | Orthodox Apologetic Theology\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"An Orthodox teaching library about repentance, the sacraments, the Church Fathers, and apologetics.\\\"}],[\\\"$\\\",\\\"link\\\",\\\"2\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/images/logo.jpg\\\"}],[\\\"$\\\",\\\"$L1c\\\",\\\"3\\\",{}]]\\n\"])",
+          "href": null,
+          "outline": "none"
+        },
+        {
+          "text": "Skip to content",
+          "href": "#main-content",
+          "outline": "solid"
+        },
+        {
+          "text": "Orthodox ApologeticTheology",
+          "href": "/",
+          "outline": "solid"
+        },
+        {
+          "text": "",
+          "href": null,
+          "outline": "solid"
+        },
+        {
+          "text": "EN",
+          "href": null,
+          "outline": "solid"
+        },
+        {
+          "text": "አማርኛ",
+          "href": null,
+          "outline": "solid"
+        },
+        {
+          "text": "Home",
+          "href": "/",
+          "outline": "solid"
+        },
+        {
+          "text": "Repentance→",
+          "href": "/teachings?topic=repentance",
+          "outline": "solid"
+        },
+        {
+          "text": "Sacraments→",
+          "href": "/teachings?topic=sacraments",
+          "outline": "solid"
+        },
+        {
+          "text": "Church Fathers→",
+          "href": "/teachings?topic=fathers",
+          "outline": "solid"
+        },
+        {
+          "text": "Apologetics→",
+          "href": "/teachings?topic=apologetics",
+          "outline": "solid"
+        },
+        {
+          "text": "Browse teachings→",
+          "href": "/teachings",
+          "outline": "solid"
+        }
+      ]
+    }
+  ],
+  "video": [
+    {
+      "viewport": 1920,
+      "x": 336,
+      "width": 960,
+      "height": 540,
+      "articleX": 336,
+      "overflow": false
+    },
+    {
+      "viewport": 1536,
+      "x": 336,
+      "width": 960,
+      "height": 540,
+      "articleX": 336,
+      "overflow": false
+    },
+    {
+      "viewport": 390,
+      "x": 16,
+      "width": 358,
+      "height": 201.375,
+      "articleX": 16,
+      "overflow": false
+    },
+    {
+      "viewport": 320,
+      "x": 16,
+      "width": 288,
+      "height": 186.09375,
+      "articleX": 16,
+      "overflow": false
+    }
+  ],
+  "errors": []
+}

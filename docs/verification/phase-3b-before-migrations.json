@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-13",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "inspected",
+  "objects": [],
+  "functions": [],
+  "schemas": [],
+  "history": [],
+  "counts": {},
+  "pending": [
+    "20261010000100_content_validation.sql",
+    "20261010000200_schema_and_rls.sql"
+  ],
+  "conflicts": []
+}

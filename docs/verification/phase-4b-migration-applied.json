@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-14",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "applied": "{\"upToDate\":false,\"dryRun\":false,\"migrations\":[\"20261014000100_atomic_teaching_editor.sql\"],\"seeds\":[],\"roles\":[],\"message\":\"Finished supabase db push.\"}",
+  "functions": [
+    {
+      "proname": "get_admin_teaching",
+      "prosecdef": false
+    },
+    {
+      "proname": "save_admin_teaching",
+      "prosecdef": false
+    }
+  ],
+  "history": [
+    {
+      "version": "20261010000100"
+    },
+    {
+      "version": "20261010000200"
+    },
+    {
+      "version": "20261014000100"
+    }
+  ]
+}

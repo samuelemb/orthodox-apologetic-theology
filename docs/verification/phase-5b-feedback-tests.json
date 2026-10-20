@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-16",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "Message-only keyboard submission confirms database insert; pending repeat guard, language retention and success-only clear",
+      "status": "passed"
+    },
+    {
+      "name": "Optional name/email normalize; confirmed message appears unread in private owner inbox",
+      "status": "passed"
+    },
+    {
+      "name": "Field errors, blank/invalid/oversized JSON, unsupported fields, honeypot and origin rejection create no rows",
+      "status": "passed"
+    },
+    {
+      "name": "Database failure returns generic failure without clearing text or claiming success; bilingual mobile layout",
+      "status": "passed"
+    },
+    {
+      "name": "Anonymous/non-owner cannot read feedback, insert directly or call privileged RPC; browser bundles contain no key",
+      "status": "passed"
+    },
+    {
+      "name": "Two application instances share an atomic database limit; concurrent boundary accepts exactly one and returns 429",
+      "status": "passed"
+    }
+  ],
+  "cleanup": [
+    {
+      "item": "only messages with unique run prefix and exact discovered IDs removed",
+      "status": "passed"
+    },
+    {
+      "item": "existing feedback unchanged; test budget restored",
+      "status": "passed"
+    },
+    {
+      "item": "temporary accounts removed; permanent owners preserved",
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "logs": [
+    "HTTP 404 http://127.0.0.1:3001/teachings/nonexistent",
+    "error Failed to load resource: the server responded with a status of 404 (Not Found) {\"url\":\"http://127.0.0.1:3001/teachings/nonexistent\",\"line\":0,\"column\":0,\"lineNumber\":0,\"columnNumber\":0}"
+  ]
+}

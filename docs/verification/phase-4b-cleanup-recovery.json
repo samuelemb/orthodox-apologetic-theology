@@ -1,0 +1,7 @@
+{
+  "date": "2026-10-14",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "passed",
+  "reason": "Ordinary fixture cleanup timed out; trusted recovery checked exact manifest IDs and run-specific translation slugs before deleting only those records.",
+  "remaining": 0
+}

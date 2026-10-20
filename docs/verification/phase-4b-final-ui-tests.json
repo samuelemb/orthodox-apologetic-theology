@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-14",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "New both-language flow and tab Home/End/arrow keyboard behavior",
+      "status": "passed"
+    },
+    {
+      "name": "Pending save disables fields, shows progress; failed save preserves both tabs",
+      "status": "passed"
+    },
+    {
+      "name": "Native refresh warns and cancellation retains the entered content",
+      "status": "passed"
+    },
+    {
+      "name": "Save both versions as drafts; in-app list navigation refreshes prefetched data",
+      "status": "passed"
+    }
+  ],
+  "cleanup": [
+    {
+      "item": "isolated teaching",
+      "status": "passed"
+    },
+    {
+      "item": "single-language fixture",
+      "status": "passed"
+    },
+    {
+      "item": "temporary owner",
+      "status": "passed"
+    },
+    {
+      "item": "permanent owner preserved and zero temporary users",
+      "status": "passed"
+    }
+  ]
+}

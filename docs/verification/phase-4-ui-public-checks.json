@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-13",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "en keyboard Enter submission, disabled submitting state, localized accessible error",
+      "status": "passed"
+    },
+    {
+      "name": "am keyboard Enter submission, disabled submitting state, localized accessible error",
+      "status": "passed"
+    },
+    {
+      "name": "/ public shell en 1536",
+      "status": "passed"
+    },
+    {
+      "name": "/about public shell en 1536",
+      "status": "passed"
+    },
+    {
+      "name": "/ public shell en 390",
+      "status": "passed"
+    },
+    {
+      "name": "/about public shell en 390",
+      "status": "passed"
+    },
+    {
+      "name": "/ public shell am 1536",
+      "status": "passed"
+    },
+    {
+      "name": "/about public shell am 1536",
+      "status": "passed"
+    },
+    {
+      "name": "/ public shell am 390",
+      "status": "passed"
+    },
+    {
+      "name": "/about public shell am 390",
+      "status": "passed"
+    }
+  ],
+  "errors": []
+}

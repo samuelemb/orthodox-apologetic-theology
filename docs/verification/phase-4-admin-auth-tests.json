@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-13",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "Anonymous direct navigation to all three protected routes and private response headers",
+      "status": "passed"
+    },
+    {
+      "name": "Incorrect credentials display generic accessible error",
+      "status": "passed"
+    },
+    {
+      "name": "Authenticated non-owner denied by login and direct protected navigation",
+      "status": "passed"
+    },
+    {
+      "name": "Owner password login persists after refresh and permits all three routes",
+      "status": "passed"
+    },
+    {
+      "name": "Desktop/mobile English/Amharic layout, navigation, keyboard focus and credential-free screenshots",
+      "status": "passed"
+    },
+    {
+      "name": "Sign-out followed by Back, refresh and direct navigation denies access",
+      "status": "passed"
+    },
+    {
+      "name": "External and malformed post-login redirects rejected; safe admin destination accepted",
+      "status": "passed"
+    },
+    {
+      "name": "Allowlist revocation denies an existing owner session on next request",
+      "status": "passed"
+    },
+    {
+      "name": "Bilingual login mobile/desktop, show/hide, tab order and blank screenshots",
+      "status": "passed"
+    }
+  ],
+  "cleanup": [
+    {
+      "item": "owner temporary account and membership",
+      "status": "passed"
+    },
+    {
+      "item": "nonowner temporary account and membership",
+      "status": "passed"
+    },
+    {
+      "item": "zero test accounts; pre-existing owner memberships preserved",
+      "status": "passed"
+    }
+  ],
+  "permanentOwner": "Separate private user provisioning; not used by automated tests",
+  "browser": "Desktop Chrome; viewport emulation at 1536, 390, 320 in en/am"
+}

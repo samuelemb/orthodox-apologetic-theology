@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-19",
+  "status": "commands-reviewed-only",
+  "flags": [
+    "--linked",
+    "--role-only",
+    "--data-only",
+    "--use-copy",
+    "--schema",
+    "--file"
+  ],
+  "backupExecuted": false,
+  "restoreExecuted": false
+}

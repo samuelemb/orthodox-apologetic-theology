@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-14",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "passed",
+  "counts": {
+    "edit_states": 0,
+    "feedback": 0,
+    "owners": 1,
+    "teachings": 0,
+    "test_accounts": 0,
+    "topics": 4,
+    "translations": 0
+  },
+  "permanentOwnerRetained": true,
+  "privilegedKeyInAppEnvironment": false,
+  "history": [
+    {
+      "version": "20261010000100"
+    },
+    {
+      "version": "20261010000200"
+    },
+    {
+      "version": "20261014000100"
+    },
+    {
+      "version": "20261014000200"
+    },
+    {
+      "version": "20261014000300"
+    }
+  ],
+  "helpers": [
+    {
+      "proname": "get_admin_teaching",
+      "prosecdef": false
+    },
+    {
+      "proname": "save_admin_teaching",
+      "prosecdef": false
+    }
+  ]
+}

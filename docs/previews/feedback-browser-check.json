@@ -1,0 +1,350 @@
+{
+  "unitBoundaries": "passed",
+  "results": [
+    {
+      "language": "en",
+      "width": 1536,
+      "overflow": false,
+      "validation": "passed",
+      "languagePreservation": "passed",
+      "previewRequests": 0,
+      "storageWrites": [
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "am"
+          ]
+        },
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "en"
+          ]
+        }
+      ],
+      "geometry": {
+        "formFirst": true,
+        "gutter": 32
+      },
+      "focus": {
+        "style": "solid",
+        "width": "3px"
+      },
+      "keyboard": "passed",
+      "libraryLink": "passed",
+      "formResetOnReturn": true
+    },
+    {
+      "language": "en",
+      "width": 1024,
+      "overflow": false,
+      "validation": "passed",
+      "languagePreservation": "passed",
+      "previewRequests": 0,
+      "storageWrites": [
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "am"
+          ]
+        },
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "en"
+          ]
+        }
+      ],
+      "geometry": {
+        "formFirst": true,
+        "gutter": 32
+      },
+      "focus": {
+        "style": "solid",
+        "width": "3px"
+      },
+      "keyboard": "passed",
+      "libraryLink": "passed",
+      "formResetOnReturn": true
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "overflow": false,
+      "validation": "passed",
+      "languagePreservation": "passed",
+      "previewRequests": 3,
+      "storageWrites": [
+        {
+          "method": "fetch",
+          "args": [
+            "http://127.0.0.1:3003/teachings?_rsc=ehhH2XWyzALZgxby",
+            "GET",
+            null
+          ]
+        },
+        {
+          "method": "fetch",
+          "args": [
+            "http://127.0.0.1:3003/teachings?_rsc=2VAk_7dtiX8k_1vN",
+            "GET",
+            null
+          ]
+        },
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "am"
+          ]
+        },
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "en"
+          ]
+        }
+      ],
+      "geometry": {
+        "formFirst": true,
+        "gutter": 16
+      },
+      "focus": {
+        "style": "solid",
+        "width": "3px"
+      },
+      "keyboard": "passed",
+      "libraryLink": "passed",
+      "formResetOnReturn": true
+    },
+    {
+      "language": "en",
+      "width": 320,
+      "overflow": false,
+      "validation": "passed",
+      "languagePreservation": "passed",
+      "previewRequests": 3,
+      "storageWrites": [
+        {
+          "method": "fetch",
+          "args": [
+            "http://127.0.0.1:3003/teachings?_rsc=ehhH2XWyzALZgxby",
+            "GET",
+            null
+          ]
+        },
+        {
+          "method": "fetch",
+          "args": [
+            "http://127.0.0.1:3003/teachings?_rsc=2VAk_7dtiX8k_1vN",
+            "GET",
+            null
+          ]
+        },
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "am"
+          ]
+        },
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "en"
+          ]
+        }
+      ],
+      "geometry": {
+        "formFirst": true,
+        "gutter": 16
+      },
+      "focus": {
+        "style": "solid",
+        "width": "3px"
+      },
+      "keyboard": "passed",
+      "libraryLink": "passed",
+      "formResetOnReturn": true
+    },
+    {
+      "language": "am",
+      "width": 1536,
+      "overflow": false,
+      "validation": "passed",
+      "languagePreservation": "passed",
+      "previewRequests": 0,
+      "storageWrites": [
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "en"
+          ]
+        },
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "am"
+          ]
+        }
+      ],
+      "geometry": {
+        "formFirst": true,
+        "gutter": 32
+      },
+      "focus": {
+        "style": "solid",
+        "width": "3px"
+      },
+      "keyboard": "passed",
+      "libraryLink": "passed",
+      "formResetOnReturn": true
+    },
+    {
+      "language": "am",
+      "width": 1024,
+      "overflow": false,
+      "validation": "passed",
+      "languagePreservation": "passed",
+      "previewRequests": 0,
+      "storageWrites": [
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "en"
+          ]
+        },
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "am"
+          ]
+        }
+      ],
+      "geometry": {
+        "formFirst": true,
+        "gutter": 32
+      },
+      "focus": {
+        "style": "solid",
+        "width": "3px"
+      },
+      "keyboard": "passed",
+      "libraryLink": "passed",
+      "formResetOnReturn": true
+    },
+    {
+      "language": "am",
+      "width": 390,
+      "overflow": false,
+      "validation": "passed",
+      "languagePreservation": "passed",
+      "previewRequests": 3,
+      "storageWrites": [
+        {
+          "method": "fetch",
+          "args": [
+            "http://127.0.0.1:3003/teachings?_rsc=ehhH2XWyzALZgxby",
+            "GET",
+            null
+          ]
+        },
+        {
+          "method": "fetch",
+          "args": [
+            "http://127.0.0.1:3003/teachings?_rsc=2VAk_7dtiX8k_1vN",
+            "GET",
+            null
+          ]
+        },
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "en"
+          ]
+        },
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "am"
+          ]
+        }
+      ],
+      "geometry": {
+        "formFirst": true,
+        "gutter": 16
+      },
+      "focus": {
+        "style": "solid",
+        "width": "3px"
+      },
+      "keyboard": "passed",
+      "libraryLink": "passed",
+      "formResetOnReturn": true
+    },
+    {
+      "language": "am",
+      "width": 320,
+      "overflow": false,
+      "validation": "passed",
+      "languagePreservation": "passed",
+      "previewRequests": 3,
+      "storageWrites": [
+        {
+          "method": "fetch",
+          "args": [
+            "http://127.0.0.1:3003/teachings?_rsc=ehhH2XWyzALZgxby",
+            "GET",
+            null
+          ]
+        },
+        {
+          "method": "fetch",
+          "args": [
+            "http://127.0.0.1:3003/teachings?_rsc=2VAk_7dtiX8k_1vN",
+            "GET",
+            null
+          ]
+        },
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "en"
+          ]
+        },
+        {
+          "method": "storage.setItem",
+          "args": [
+            "oat-interface-language",
+            "am"
+          ]
+        }
+      ],
+      "geometry": {
+        "formFirst": true,
+        "gutter": 16
+      },
+      "focus": {
+        "style": "solid",
+        "width": "3px"
+      },
+      "keyboard": "passed",
+      "libraryLink": "passed",
+      "formResetOnReturn": true
+    }
+  ],
+  "errors": []
+}

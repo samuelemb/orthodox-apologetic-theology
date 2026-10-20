@@ -1,0 +1,13 @@
+import fs from 'node:fs';import path from 'node:path';import ts from 'typescript';import assert from 'node:assert/strict';
+const cache=new Map();function load(file){file=path.resolve(file);if(cache.has(file))return cache.get(file).exports;const m={exports:{}};cache.set(file,m);new Function('require','module','exports',ts.transpileModule(fs.readFileSync(file,'utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS,target:ts.ScriptTarget.ES2022}}).outputText)(name=>load(path.resolve(path.dirname(file),name)+'.ts'),m,m.exports);return m.exports;}
+const {normalizeYouTube,validateSaveRequest}=load('src/lib/admin-teachings.ts');
+const id='dQw4w9WgXcQ';for(const input of [id,'https://youtu.be/'+id+'?t=20','https://www.youtube.com/watch?v='+id,'https://youtube.com/shorts/'+id,'https://m.youtube.com/embed/'+id,'https://www.youtube.com/live/'+id])assert.equal(normalizeYouTube(input),id);
+assert.equal(normalizeYouTube(' '),null);
+for(const input of ['http://youtube.com/watch?v='+id,'https://youtube.com.evil.test/watch?v='+id,'https://user@youtube.com/watch?v='+id,'https://youtube.com:444/watch?v='+id,'<iframe src="x"></iframe>','javascript:alert(1)','https://youtu.be/bad','https://evil.test/'+id])assert.throws(()=>normalizeYouTube(input));
+const version={language:'en',title:'Test',excerpt:'Test excerpt',slug:'test-slug',article_content:{version:1,sections:[{id:'intro',heading:'Introduction',paragraphs:['Test paragraph.']}]},video_input:'',status:'draft',saved:false};
+const input={teaching:{id:'teaching-test',topic_id:'repentance',revision:0,isNew:true,versions:[version]},requestId:'00000000-0000-4000-8000-000000000000',mode:'save',target:'en'};
+assert.equal(validateSaveRequest(input).versions[0].youtube_video_id,null);
+for(const change of [{title:''},{title:'x'.repeat(301)},{excerpt:'x'.repeat(2001)},{slug:'Bad Slug'},{language:'fr'},{video_input:id},{article_content:{version:1,sections:[{id:'intro',heading:'Intro',paragraphs:['']}]}}])assert.throws(()=>validateSaveRequest({...input,teaching:{...input.teaching,versions:[{...version,...change}]}}));
+assert.throws(()=>validateSaveRequest({...input,teaching:{...input.teaching,topic_id:'unknown'}}));assert.throws(()=>validateSaveRequest({...input,teaching:{...input.teaching,versions:[version,version]}}));
+assert.throws(()=>validateSaveRequest({...input,teaching:{...input.teaching,versions:[{...version,article_content:{version:1,sections:[{id:'same',heading:'A',paragraphs:['A']},{id:'same',heading:'B',paragraphs:['B']}]}}]}}));
+console.log('Phase 4B validation passed: URL origin/scheme/ID normalization, field limits, topics, languages, duplicate versions and article structure.');

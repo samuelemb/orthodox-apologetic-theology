@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-16",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "Missing field: inline association, short summary, first-invalid focus and live correction",
+      "status": "passed"
+    },
+    {
+      "name": "Inactive Amharic section error: tab marker, activation, clickable summary and correction",
+      "status": "passed"
+    },
+    {
+      "name": "Reordering keeps error links attached to the same section ID and updates its number",
+      "status": "passed"
+    },
+    {
+      "name": "Section dialog: Cancel initial focus, Tab trap, Escape/cancel restoration and exact removal",
+      "status": "passed"
+    },
+    {
+      "name": "Paragraph dialog: cancellation, selective removal, reindexed errors and focus restoration",
+      "status": "passed"
+    },
+    {
+      "name": "Server duplicate slug maps to Amharic field and clears on correction; server validation remains active",
+      "status": "passed"
+    },
+    {
+      "name": "Network failure stays separate from field validation and retains entered content",
+      "status": "passed"
+    },
+    {
+      "name": "Amharic messages and dialog at 320px: fit, keyboard cancellation and preserved content",
+      "status": "passed"
+    }
+  ],
+  "cleanup": [
+    {
+      "item": "exact duplicate-slug fixture",
+      "status": "passed"
+    },
+    {
+      "item": "run-marked temporary owner",
+      "status": "passed"
+    },
+    {
+      "item": "permanent owner and existing teachings preserved",
+      "status": "passed"
+    }
+  ],
+  "fullPhase4BSuite": "Not repeated",
+  "screenshots": "One temporary mobile dialog capture for visual inspection; no large screenshot set"
+}

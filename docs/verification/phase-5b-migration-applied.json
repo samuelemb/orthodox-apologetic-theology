@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-16",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "status": "applied",
+  "privileges": [
+    {
+      "anon_execute": false,
+      "anon_insert": false,
+      "server_execute": true,
+      "service_table_insert": false,
+      "user_execute": false
+    }
+  ],
+  "localConfiguration": "Server-only key and exact loopback origins configured in ignored .env.local; values withheld"
+}

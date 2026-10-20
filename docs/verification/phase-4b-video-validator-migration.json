@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-14",
+  "projectRef": "ctewndpjtkcpybclniuf",
+  "preview": "{\"upToDate\":false,\"dryRun\":true,\"migrations\":[\"20261014000300_video_article_validation.sql\"],\"seeds\":[],\"roles\":[],\"message\":\"Finished supabase db push.\"}",
+  "applied": "{\"upToDate\":false,\"dryRun\":false,\"migrations\":[\"20261014000300_video_article_validation.sql\"],\"seeds\":[],\"roles\":[],\"message\":\"Finished supabase db push.\"}",
+  "checks": [
+    {
+      "name": "valid video",
+      "expected": true,
+      "result": true,
+      "status": "passed"
+    },
+    {
+      "name": "extra iframe key",
+      "expected": false,
+      "result": false,
+      "status": "passed"
+    },
+    {
+      "name": "two videos",
+      "expected": false,
+      "result": false,
+      "status": "passed"
+    },
+    {
+      "name": "empty paragraph",
+      "expected": false,
+      "result": false,
+      "status": "passed"
+    }
+  ]
+}
